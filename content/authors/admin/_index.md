@@ -11,13 +11,15 @@ education:
     institution: University of Michigan
     year: 1997
   - course: BSEng in Mechanical Engineering
-    institution: University of Michiga
+    institution: University of Michigan
     year: 1995
 email: "jrico@ohlone.edu"
 interests:
 - Statistics Education
-- Combinatorial Games
-- Rstats
+- Combinatorial Games 
+- RStudio
+- Formula One
+
 organizations:
 - name: Ohlone College (Fremont, CA)
   url: ""
@@ -39,8 +41,8 @@ user_groups:
 - Visitors
 ---
 
-I am a tenured professor at Ohlone College in Fremont, California.  My teaching interests are Statistics and Math for Liberal Arts.  This summer, I am working on developing 50/50 hybrid Intro to Statistics courses using the Carnegie Mellon University's Integrated Statistics Learning Environment (ISLE).  
+I am a tenured professor of mathematics at Ohlone College in Fremont, California.  My primary teaching interests are Statistics and Math for Liberal Arts.  This summer, I am working on developing 50/50 hybrid Intro to Statistics courses using the Carnegie Mellon University's Integrated Statistics Learning Environment (ISLE).  
 
-My hobbies are being outdoors and playing games.  Right now the game I am enjoying is backgammon.  Other games that I enjoy are cribbage and dominoes.
+My hobbies are being outdoors and playing games.  Right now the game I am enjoying is backgammon.  Other games that I enjoy are cribbage and dominoes.  I hope to start a backgammon club at Ohlone College once we return to campus.
 
 
