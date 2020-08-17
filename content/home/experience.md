@@ -30,15 +30,8 @@ date_format = "Jan 2006"
   company_url = "www.frc.edu"
   location = "Quincy, California"
   date_start = "2009-08-01"
-  date_end = "2011-05-31"  date_end = ""
-  description = """
-  Courses Taught:
-  
-  * Math 159 : Introduction to Statistics
-  * Math 156 : Math for Liberal Arts
-  """
+  date_end = "2011-05-31"  
 
-  
 [[experience]]
   title = "Professor"
   company = "Napa Valley College"
