@@ -13,11 +13,11 @@ weight: 2
 ---
 
 ## My Learning Objectives
+1. Apply statistical concepts to evaluate claims based on statistic that you will encounter.
+2. Develop tools necessary to conduct a statistical investigation.
+3. Develop articulation and presentation skills to communicate your findings form statistical investigations.
 
-
-
-
-## Longer (Official Course Learning Objectives)
+## Official Course Learning Objectives
 1. Distinguish among different scales of measurement and their implications; 
 2. Interpret data displayed in tables and graphically; 
 3. Apply concepts of sample space and probability; 
@@ -32,5 +32,5 @@ weight: 2
 12. Identify the basic concept of hypothesis testing including Type I and II errors; 
 13. Formulate hypothesis tests involving samples from one and two populations; 
 14. Select the appropriate technique for testing a hypothesis and interpret the result; 
-15. Use linear regression and ANOVA analysis for estimation and inference, and interpret the associated statistics;  
+15. Use linear regression and ANOVA analysis for estimation and inference, and interpret the associated statistics;
 16. Use appropriate statistical techniques to analyze and interpret applications based on data from disciplines including business, social sciences, psychology, life science, health science, and education. 
