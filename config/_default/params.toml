@@ -97,7 +97,7 @@ address = {street = "43600 Mission Blvd", city = "Fremont", region = "CA", postc
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.529500", longitude = "-121.914262"}
+coordinates = {latitude = "37.531711 ", longitude = "-121.912717"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 3 and take the stairs/elevator to Floor 4, all the way down the hallway to Office 3420-B "
@@ -117,7 +117,7 @@ contact_links = []
   ##{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   ##{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+  #]
 
 ############################
 ## Social
