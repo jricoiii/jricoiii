@@ -5,7 +5,7 @@ linktitle: References
 menu:
   example:
     parent: Course Information
-    weight: 2
+    weight: 3
 title: References
 toc: true
 type: docs

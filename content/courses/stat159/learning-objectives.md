@@ -1,11 +1,11 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
 draft: false
-linktitle: Tips 3-4
+linktitle: Learning Obejctives
 menu:
   example:
     parent: Course Information
-    weight: 2
+    weight: 4
 title: Learning Objectives
 toc: true
 type: docs

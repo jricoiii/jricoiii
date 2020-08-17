@@ -5,7 +5,7 @@ linktitle: Quality of Failure
 menu:
   example:
     parent: Course Information
-    weight: 1
+    weight: 5
 title: Quality of Failure
 toc: true
 type: docs
