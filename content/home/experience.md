@@ -50,14 +50,6 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Professor"
-  company = "Feather River College"
-  company_url = "www.frc.edu"
-  location = "Quincy, California"
-  date_start = "2009-08-01"
-  date_end = "2011-05-31"
-
-[[experience]]
-  title = "Professor"
   company = "Taft College"
   company_url = "www.taftcollege.edu"
   location = "Taft, California"
