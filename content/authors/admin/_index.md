@@ -46,6 +46,6 @@ user_groups:
 
 I am a tenured professor of mathematics at Ohlone College in Fremont, California.  My primary teaching interests are Statistics and Math for Liberal Arts.  This summer, I am working on developing 50/50 hybrid Intro to Statistics courses using the Carnegie Mellon University's Integrated Statistics Learning Environment (ISLE).  
 
-My hobbies are being outdoors and playing games.  Walking and biking around the Quarry Lakes and Alameda Creek are my daily enjoyments.  Right now, the game I am enjoying is backgammon, you can find me playing online at [Backgammon Galaxy](www.backgammongalaxy.com) as **jricoii**.   Other games that I enjoy are cribbage and dominoes.  I hope to start a backgammon club at Ohlone College once we return to campus.
+My hobbies are being outdoors and playing games.  Walking and biking around the Quarry Lakes and Alameda Creek are my daily enjoyments.  Right now, the game I am enjoying is backgammon, you can find me playing online at [Backgammon Galaxy](www.backgammongalaxy.com) as **jricoiii**.   I hope to start a backgammon club at Ohlone College once we return to campus. Other games that I enjoy are cribbage and dominoes. 
 
 
