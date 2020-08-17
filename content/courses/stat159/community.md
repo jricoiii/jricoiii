@@ -1,12 +1,12 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
 draft: false
-linktitle: Tips 3-4
+linktitle: Learning Community
 menu:
   example:
-    parent: Example Topic
+    parent: Course Information
     weight: 2
-title: Example Page 2
+title: Learning Community
 toc: true
 type: docs
 weight: 2
