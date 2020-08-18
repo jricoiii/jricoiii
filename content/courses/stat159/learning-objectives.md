@@ -9,7 +9,7 @@ menu:
 title: Learning Objectives
 toc: true
 type: docs
-weight: 2
+weight: 4
 ---
 
 ## My Learning Objectives

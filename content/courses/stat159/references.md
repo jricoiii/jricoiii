@@ -9,21 +9,22 @@ menu:
 title: Learning Resources
 toc: true
 type: docs
-weight: 2
+weight: 3
 ---
 
-## Note Regarding Learning Resources
 The basic statistical concepts that we cover in the course have not changed in over 50 years. (Yes, most of them pre-date modern computers).  There is an abundance of learning materials covering introductory statistics (YouTube, websites, textbooks).  I recommend that you be proactive in seeking out information (googling is a good strategy, if you know how to use the right key words).  I will be providing websites, YouTube videos, and open access (free) textbook as we progress through our learning modules.  Here are some places to start your journey into learning statistics.
 
 ## Integrated Statistic Learning Environment
-Our primary learning space will be an online space called ISLE.  Follow these steps to obtain access to ISLE.
-1. You will need to sign up with your Ohlone Student Email account (*you can sign up without using it, but you won't be able to enroll in the course*)
-  - [Sign Up for ISLE](https://isle.kymetis.com/dashboard/#/signup)
+Our primary learning space will be an online space called ISLE.  ISLE was developed by Carnegie Mellon University's Statistics and Data Science department with the goal of having an accessible interface for all to be data scientists.
+
+Follow these steps to obtain access to ISLE.
+1. You will need to sign up for ISLE with your Ohlone Student Email account (*Careful, you can sign up without using your Ohlone email, but later you won't be able to enroll in the course*)
+    - [Sign Up for ISLE](https://isle.kymetis.com/dashboard/#/signup)
 2. Click: **Go to Login page** and login with your email and password
-3. Click on Menu (Three Horizontal Bars in upper left corner to left of Open Your courses)
-4. Enroll will appear, click on it
-5. Select RicoStatsF2020
-6. Then select your section (you might not know the section, but WebAdvisor has that section detail)
+3. Click on Menu. (Three Horizontal Bars in upper left corner to left of Open Your Courses)
+4. Enroll will appear, click on it.
+5. Select **RicoStatsF2020**.
+6. Then select your section (*you might not know the section, but WebAdvisor has that section detail*)
 7. You're in! 
 8. Bookmark the [ISLE Website](https://isle.kymetis.com/dashboard)
 
@@ -35,6 +36,11 @@ Our primary learning space will be an online space called ISLE.  Follow these st
 
 The textbook (PDF) can be downloaded for free or contribution (**you can skip the optional contribution, by setting the price to $0**) at;  
 [leanpub.com/openintro-statistics](https://leanpub.com/openintro-statistics)  
+
+## Communication with Each Other and Professor
+I have set up a course site at **Campuswire**, which will be our home base for communication.
+- Sign up at [Campuswire](https://campuswire.com/p/GC2A93A8D), using **2107** as the class join code.
+
 
 ## Interactive Statistical Applets
 The web has enabled a new set of resources to learn statistic through interaction called applets.    
@@ -48,10 +54,13 @@ Here are some YouTube channels that I will be referencing in our modules.  If yo
 - [OpenIntroOrg](https://www.youtube.com/user/OpenIntroOrg/playlists)
 - [STA 270: Applied Statistics](https://www.youtube.com/channel/UC50DjGEiQZXUzj-A_ff9bkA/videos)
 - [zedstatistics](https://www.youtube.com/channel/UC6AVa0vSrCpuskzGDDKz_EQ)
+- [Wild About Statistics](https://www.youtube.com/channel/UCElKp33-h_Yw0o8XATHllCg)
+- [Dr Nic's Math and Stats](https://www.youtube.com/channel/UCG32MfGLit1pcqCRXyy9cAg)
 - [Cassie Kozyrkov](https://www.youtube.com/channel/UCbOX--VOebPe-MMRkatFRxw/videos)
 - [StatTeacher](https://www.youtube.com/user/StatTeacher/videos)
 
 ## Additional Textbooks
+If you have access to an actual statistics textbook, you might find that quite useful.  An actual physical textbook is a great way to have the material at your fingertips.  Here are some other digital textbooks that I found and can recommend.
 - [openstax Introductory Statistics](https://openstax.org/details/books/introductory-statistics)
 - [Saylor Academy's Introductory Statistics](https://open.umn.edu/opentextbooks/textbooks/135)
 - [Foundations in Statistical Reasoning](https://sites.google.com/site/offthebeatenmathpath/foundations-in-statistical-reasoning-second-edition)

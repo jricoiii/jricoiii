@@ -9,7 +9,7 @@ menu:
 title: Quality of Failure
 toc: true
 type: docs
-weight: 1
+weight: 5
 ---
 I want my student to feel free in my class to uniquely express their ideas and thoughts, and authentically make the effort to take risks as they learn. Fear of failure and judgement often makes this difficult for an individual to be feel free.  I ran across an approach another teacher has used to address this "fear of failure," when reading **How Humans Learn** during the Ohlone College 2020 Summer book read.  I liked the approach so much I decided to copy it and use it in our class.  
 
