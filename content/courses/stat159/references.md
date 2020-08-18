@@ -12,7 +12,7 @@ type: docs
 weight: 3
 ---
 
-The basic statistical concepts that we cover in the course have not changed in over 50 years. (Yes, most of them pre-date modern computers).  There is an abundance of learning materials covering introductory statistics (YouTube, websites, textbooks).  I recommend that you be proactive in seeking out information (googling is a good strategy, if you know how to use the right key words).  I will be providing websites, YouTube videos, and open access (free) textbook as we progress through our learning modules.  Here are some places to start your journey into learning statistics.
+The basic statistical concepts and methods that we cover in the course have not changed  much in over 80 years. (Yes, this pre-date modern computers, in fact much of modern statistics was developed in the later 1800's and early 1900's).  There is an abundance of learning materials covering introductory statistics (YouTube, websites, textbooks).  I recommend that you be proactive in seeking out information (googling is a good strategy, if you know how to use the right key words).  I will be providing websites, YouTube videos, and open access (free) textbook as we progress through our learning modules.  Here are some places to start your journey into learning statistics.
 
 ## Integrated Statistic Learning Environment
 Our primary learning space will be an online space called ISLE.  ISLE was developed by Carnegie Mellon University's Statistics and Data Science department with the goal of having an accessible interface for all to be data scientists.
