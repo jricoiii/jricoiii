@@ -70,3 +70,6 @@ If you have access to an actual statistics textbook, you might find that quite u
 - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/index.html)
 - [Data Analytics: A Minimal Book Example](https://bookdown.org/jhvdz1/dataanalytics/)
 - [ModernDive - Statistical Inference via Data Science](https://moderndive.com/index.html)
+
+## Ohlone Academic Calendar
+[Calendar from Ohlone College Website](ohlone.edu/sites/default/files/groups/Curriculum_and_Scheduling/Curriculum_Committee/documents/2020-2021_academic_calendar_-_official.pdf)

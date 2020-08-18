@@ -2,13 +2,13 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: Math 159 Statistics 
+linktitle: Math 159 Statistics Fall 2020
 menu:
   example:
-    name: Math 159 Introductory Statistics
+    name: Math 159 Introductory Statistics Fall 2020
     weight: 1
 summary: Introductory Statistics at Ohlone College
-title: Math 159
+title: Math 159 Fall 2020
 toc: true
 type: docs
 weight: 1
