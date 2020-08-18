@@ -46,8 +46,8 @@ user_groups:
 
 I am a tenured professor of mathematics at Ohlone College in Fremont, California.  My primary teaching interests are Statistics and Math for Liberal Arts.  This summer, I am working on developing 50/50 hybrid Intro to Statistics courses using the Carnegie Mellon University's Integrated Statistics Learning Environment (ISLE).  
 
-My hobbies are being outdoors, playing games and listening to music.  Walking and biking around the Quarry Lakes and Alameda Creek are my daily outdoor enjoyments.  Right now, the game I am enjoying is backgammon, you can find me playing online at [Backgammon Galaxy](www.backgammongalaxy.com) as **jricoiii**.   I hope to start a backgammon club at Ohlone College once we return to campus. Other games that I enjoy are cribbage and dominoes. 
+My hobbies are being outdoors, playing games and listening to music.  Walking and biking around the Quarry Lakes and Alameda Creek are my daily outdoor enjoyments.  Right now, the game that I am enjoying is backgammon, you can find me playing online at [Backgammon Galaxy](www.backgammongalaxy.com) as **jricoiii**.   I hope to start a backgammon club at Ohlone College once we return to campus. Other games that I enjoy are cribbage and dominoes (Block, Tien Gow) 
 
-Regarding music, I am always interested in hearing new music.  My favorite musical genres are Reggae and Jazz.  Although lately, I am finding pleasure in diversifying my listening with more current pop music (mainly singer-songwriter).   My favorite musical events are jazz festivals.  I have been to festival is Montreal, San Jose, and Detroit.
+Regarding music, I am always interested in hearing new music.  My favorite musical genres are Reggae and Jazz.  Although lately, I am finding pleasure in diversifying my listening with more current pop music (singer-songwriter).   My favorite musical events are jazz festivals.  I have been to festival is Montreal, San Jose, and Detroit.  I find music inspiring, the artists are so talented and generous, bringing so much energy and love to the world.
 
 
