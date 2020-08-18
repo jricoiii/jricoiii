@@ -13,9 +13,9 @@ weight: 4
 ---
 
 ## My Learning Objectives
-1. Apply statistical concepts to evaluate claims based on statistic that you will encounter.
-2. Develop tools necessary to conduct a statistical investigation.
-3. Develop articulation and presentation skills to communicate your findings form statistical investigations.
+1. Apply statistical concepts to evaluate claims that you will encounter in your lifetime.
+2. Develop skills necessary to conduct a statistical investigation.
+3. Develop communication skills to share your findings from your statistical investigations.
 
 ## Official Course Learning Objectives
 1. Distinguish among different scales of measurement and their implications; 

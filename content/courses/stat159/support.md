@@ -22,7 +22,7 @@ Please use Campuswire for all communication. I am attempting to make this course
 I will be sending all communications out via Campuswire.  
 
 ## Student Hours
-You've probably heard of *office hours*, I decided this is an outdated term (especially during Covid), so instead I am calling the time that I have set aside each week to help you as my **Student Hours**.  My students hours are listed in the table below.  Just send me a Direct Message through Campuswire and I we can chat and figure if we need to have either a Zoom or ISLE session.  If these times do not work for you, send me a message explaining you situation and we will figure out alternative time to meet.
+You've probably heard of *office hours*, I decided this is an outdated term (especially during Covid), so instead I am calling the time that I have set aside each week to help you as my **Student Hours**.  My students hours are listed in the table below.  Just send me a Direct Message through Campuswire and we can chat and figure if we need to have either a Zoom or ISLE session.  If these times do not work for you, send me a message explaining you situation and we will figure out alternative time to meet.
 
 | Day of Week  | Time Available                 |
 |--------------|--------------------------------|
