@@ -5,11 +5,11 @@ linktitle: Assignments
 menu:
   example:
     parent: Course Information
-    weight: 4
+    weight: 6
 title: Assignments
 toc: true
 type: docs
-weight: 4
+weight: 6
 ---
 
 ## Calendar of Assignments
@@ -32,3 +32,4 @@ weight: 4
 | 14    | Nov30  | Final Project                                                |                  |
 | 15    | Dec7   | Final Project                                                |                  |
 | 16    | Dec14  | Final Project                                                | Dec18 @ Midnight |
+|       |        | Quality of Failure                                           | Dec18 @ Midnight |

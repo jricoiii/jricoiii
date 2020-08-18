@@ -15,13 +15,27 @@ weight: 8
 ## Attendance
 Attending our virtual classes via Zoom is the greatest predictor of success in college.  I strongly encourage you to do everything possible to attend every class.  I will be recording each virtual session, but much of the in-class time will not be recorded since it is taking place in breakout rooms.  I see our classtime as an opportunity for interaction with your classmates and your instructor.  I will be using engaging activities during the virtual sessions to introduce ideas and allow you to establish a starting point for learning.  
 
+## Question for Professors
+Please use Campuswire for all communication. I am attempting to make this course an **email-free** course.
+
+## Communication
+I will be sending all communications out via Campuswire.  
+
+## Student Hours
+You've probably heard of *office hours*, I decided this is an outdated term (especially during Covid), so instead I am calling the time that I have set aside each week to help you as my **Student Hours**.  My students hours are listed in the table below.  Just send me a Direct Message through Campuswire and I we can chat and figure if we need to have either a Zoom or ISLE session.  If these times do not work for you, send me a message explaining you situation and we will figure out alternative time to meet.
+
+| Day of Week  | Time Available                 |
+|--------------|--------------------------------|
+| Monday       | 12:00 - 12:45 and 2:15 - 3:00  |
+| Tuesday      | 12:30 - 2:00                   |
+| Wednesday    | 12:00 - 12:45 and 2:15 - 3:00  |
+| Thursday     | 12:30 - 2:00                   |
 
 ## Technology
 We will be meeting online in Canvas through Zoom. You will need a reliable internet connection and a device.  I recommend having an two monitors (i.e., connect your laptop to an external monitor) for the virtual classes, one monitor to observe the class and one monitor to use for your own work.  **If you need technology to be successful in a remote learning environment, you may submit an [Emergency Technology Equipment Request form](https://ohlone.formstack.com/forms/emergency_technology_equipment_request_form). I am happy to assist you if needed.**
 
 ## Webcam
 Having a webcam will allow for much better interaction between your classmates and instructors.  When I can not see who I am teaching, the experience is pretty draining and not enjoyable.  I will not require everyone to have their camera on, but I would like each of us to think about turning **ON** their webcam and what it can do to **improve the learning experience**.  I understand that during class (especialy when the teacher is just talking), having the camera on all that time is a somewhat uncomfortable.  I just want us to be able to see eachother, especially when we go into small breakout rooms.   
-
 (**So, what I am saying is that when we are in an entire class session, it's fine to have your webcam off.  But, when we go into breakout rooms, I really wish for us all to be able to see eachother by turning on our webcams**)
 
 ## Accomodations
