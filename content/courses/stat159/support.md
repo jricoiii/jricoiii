@@ -20,11 +20,17 @@ Attending our virtual classes via Zoom is the greatest predictor of success in c
 We will be meeting online in Canvas through Zoom. You will need a reliable internet connection and a device.  I recommend having an two monitors (i.e., connect your laptop to an external monitor) for the virtual classes, one monitor to observe the class and one monitor to use for your own work.  **If you need technology to be successful in a remote learning environment, you may submit an [Emergency Technology Equipment Request form](https://ohlone.formstack.com/forms/emergency_technology_equipment_request_form). I am happy to assist you if needed.**
 
 ## Webcam
-Having a webcam will allow for much better interaction between your classmates and instructors.  When I can not see who I am teaching, the experience is pretty draining and not enjoyable.  I will not require everyone to have their camera on, but I would like each of us to think about turning **ON** their webcam and what it can do to improve the learning experience.  I understand that during class (especialy when the teacher is just talking), having the camera on all that time is a somewhat uncomfortable.  I just want us to be able to see eachother especially when we go into small breakout rooms.
+Having a webcam will allow for much better interaction between your classmates and instructors.  When I can not see who I am teaching, the experience is pretty draining and not enjoyable.  I will not require everyone to have their camera on, but I would like each of us to think about turning **ON** their webcam and what it can do to **improve the learning experience**.  I understand that during class (especialy when the teacher is just talking), having the camera on all that time is a somewhat uncomfortable.  I just want us to be able to see eachother, especially when we go into small breakout rooms.   
+
+(**So, what I am saying is that when we are in an entire class session, it's fine to have your webcam off.  But, when we go into breakout rooms, I really wish for us all to be able to see eachother by turning on our webcams**)
 
 ## Accomodations
 The Ohlone College’s Student Accessibility Services (SAS) is designed to open the doors to educational and occupational opportunities for students with disabilities. Our primary purpose is to provide an opportunity for all individuals to gain maximum benefit from their educational experience. Specialized services and educational accommodations are provided to students with disabilities to help them achieve their educational and vocational goals. If you require learning accommodations, please contact me as soon as possible or visit the Ohlone Student Accessibility Services (SAS) (formerly DSPS) [website](https://www.ohlone.edu/sas) for additional information and/or assistance.  All information and documentation is confidential.  **Please feel encouraged to make an appointment with me privately to discuss your specific learning needs in my class.**
 
 ## Academic Honesty
+Academic dishonesty defrauds all those who depend upon the integrity of the College, its courses, and its degrees and certificates. Students are expected to follow the ethical standards required at Ohlone College.  Upon the first infraction of academic dishonesty; Student will receive zero grade on the assignment or exam and Academic Dishonesty Reporting Form is to be submitted to the Vice President, Student Services 
+
+Violations of these standards are defined in the [Procedure on Academic Dishonesty](http://www.ohlone.edu/org/studentservices/academicdishonesty.html) 
 
 ## Tutoring
+The Math Learning Center will be online through Zoom.  I will update as details become available to me.
