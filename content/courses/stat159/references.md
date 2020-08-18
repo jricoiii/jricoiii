@@ -39,7 +39,7 @@ The textbook (PDF) can be downloaded for free or contribution (**you can skip th
 
 ## Communication with Each Other and Professor
 I have set up a course site at **Campuswire**, which will be our home base for communication.
-- Sign up at [Campuswire](https://campuswire.com/p/GC2A93A8D), using **2107** as the class join code.
+- Sign up through this link at [Campuswire](https://campuswire.com/p/GC2A93A8D), using **2107** as the class join code.
 
 
 ## Interactive Statistical Applets
