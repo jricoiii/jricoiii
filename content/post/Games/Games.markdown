@@ -12,7 +12,7 @@ Well much has past since then, now I am aware that the [opening moves](https://w
 
 If you want to learn the game I recommend download the app **XG Mobile Backgammon**, it has a great Tutor mode that will help you learn by sharing it's neural net experience (i.e., Equity table for your move and other possible moves).
 
-*How about a game at the beach?*
+*How about a game of backgammon at the beach?*
 ![Backgammon at the Beach](/img/IMG_5187.jpeg)
 
 
