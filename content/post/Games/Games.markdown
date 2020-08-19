@@ -8,10 +8,11 @@ I never played backgammon my entire life until the October 1, 2018, when my wife
 ![my first Crisloid Backgammon Board](/img/IMG_2822.JPEG)
 Ever since then backgammon has been my favorite game.  For about the first 2 years, I wasn't even starting the game in the proper fashion.  (*How Crazy?* We rolled a single die to see who would begin, but then that person got to roll a fresh set of dice to start the game.)  It wasn't until January 2020, when my friend, Gene, showed us how to properly start the game.  You see, the game starts with each person rolling a single die and the person with the higher die takes that initial roll and makes their first move  (if the two die are a tie, you roll again - Therefore it is impossible to start with a double.)
 
-Well much has past since then, now I am aware that the [opening moves](https://www.bkgm.com/openings.html) have been studied (*and they don't include doubles*).  I have also purchased my first 2 backgammon books; **[Backgammon: From Basics to Badass](https://www.amazon.com/Backgammon-Mr-Marc-Brockmann-Olsen/dp/1512200441)** by Marc Olsen and [501 Essential Backgammon Problems](https://www.amazon.com/501-Backgammon-Problems-Bill-Robertie/dp/1580423493) by Bill Robertie.  
+Well much has past since then, now I am aware that the [opening moves](https://www.bkgm.com/openings.html) have been studied (*and they don't include doubles*).  I have also purchased my first 2 backgammon books; [Backgammon: From Basics to Badass](https://www.amazon.com/Backgammon-Mr-Marc-Brockmann-Olsen/dp/1512200441) by Marc Olsen and [501 Essential Backgammon Problems](https://www.amazon.com/501-Backgammon-Problems-Bill-Robertie/dp/1580423493) by Bill Robertie.  
 
+If you want to learn the game I recommend download the app **XG Mobile Backgammon**, it has a great Tutor mode that will help you learn by sharing it's neural net experience (i.e., Equity table for your move and other possible moves).
 
-If you want to learn the game I recommend download the app **XG Mobile Backgammon**, it has a great Tutor mode that will help you learn by sharing it neural net experience.
+*How about a game at the beach?*
 ![Backgammon at the Beach](/img/IMG_5187.jpeg)
 
 
