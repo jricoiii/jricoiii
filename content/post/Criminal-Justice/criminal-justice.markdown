@@ -15,3 +15,5 @@ output: html_document
 [NYT - Is Prison Necessary? - 4/17/19](https://www.nytimes.com/2019/04/17/magazine/prison-abolition-ruth-wilson-gilmore.html)
 
 [The Stanford Open Policing Project](https://openpolicing.stanford.edu/)
+
+[Police Data Initiative](https://www.policedatainitiative.org/)

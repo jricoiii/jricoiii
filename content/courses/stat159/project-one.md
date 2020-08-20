@@ -21,6 +21,8 @@ In your group;
 - Develop a big picture (research topic) idea for what you want to learn about.
   - Suggested topics;
     - *mental well-being, physical well-being, employment, money insecurity, attitudes, behaviors, disruptions, new challenges*
+    - actual survey from US Census Bureau, [Household Pulse Survey During COVID19](https://www2.census.gov/programs-surveys/demo/technical-documentation/hhp/2020_COVID-19_Household_Pulse_Survey-Week-of-6_11_2020_English.pdf)
+    - [Household Pulse Survey Interactive Tool](https://www.census.gov/data-tools/demo/hhp/#/?s_metro=&mapAreaSelector=msa&measures=JLR)
 - Post a **note** with your research topic in Campuswire under category `p1 - topic`
 
 - Develop at least 4 questions for the survey. 
