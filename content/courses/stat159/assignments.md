@@ -28,7 +28,7 @@ weight: 6
 | 10    | Nov2   | 08 Theory-based Hypothesis Testing                           |    Nov7 @ Noon   |
 | 11    | Nov9   | 09 Comparing Two Samples                                     |   Nov14 @ Noon   |
 | 12    | Nov16  | 10 Chi Squared Test for Independence                         |   Nov21 @ Noon   |
-| 13    | Nov23  | **Project II - Experimental Study**                          |    Dec5 @ Noon   |
+| 13    | Nov23  | [**Project II - Experimental Study**](/courses/stat159/project-2/index.html)                          |    Dec5 @ Noon   |
 | 14    | Nov30  | Final Project                                                |                  |
 | 15    | Dec7   | Final Project                                                |                  |
 | 16    | Dec14  | Final Project                                                | Dec18 @ Midnight |
