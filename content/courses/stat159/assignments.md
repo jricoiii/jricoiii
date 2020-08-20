@@ -21,7 +21,7 @@ weight: 6
 | 3     | Sep14  | 02 Relationships betweens Categorical Variables              |   Sep19 @ Noon   |
 | 4     | Sep21  | 03 Introduction to Numerical Variables                       |   Sep26 @ Noon   |
 | 5     | Sep28  | 04 Relationships between Numerical and Categorical Variables |    Oct3 @ Noon   |
-| 6     | Oct5   | **Project I - Observational Study**                          |   Oct10 @ Noon   |
+| 6     | Oct5   | [**Project I - Observational Study**](/courses/stat159/project-one/index.html)                         |   Oct10 @ Noon   |
 | 7     | Oct12  | 05 Distributions                                             |   Oct17 @ Noon   |
 | 8     | Oct19  | 06 Sampling                                                  |   Oct24 @ Noon   |
 | 9     | Oct26  | 07 Intro to Hypothesis Testing                               |   Oct31 @ Noon   |

@@ -5,11 +5,11 @@ linktitle: Policies and Support
 menu:
   example:
     parent: Course Information
-    weight: 8
+    weight: 12
 title: Policies and Support
 toc: true
 type: docs
-weight: 8
+weight: 12
 ---
 
 ## Attendance
