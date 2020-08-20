@@ -32,13 +32,54 @@ weight: 6
 | 14    | Nov30  | Final Project                                                |                  |
 | 15    | Dec7   | Final Project                                                |                  |
 | 16    | Dec14  | Final Project                                                | Dec18 @ Midnight |
-|       |        | [Quality of Failure]                                           | Dec18 @ Midnight |
+|       |        | [Quality of Failure Essay](/courses/stat159/failure.html)    | Dec18 @ Midnight |
 |       |        | Portfolio                                                    | Dec18 @ Midnight |
 
-## Grading 
+## Components  
 
 ### ISLE Modules
-Each module will have a **Skill Development** page that provide instructions on an particular analysis to complete and write a report.  You will construct yor report using Google Slides
+There are 10 ISLE modules that will serve as our main guides throughout the semester.  You will need to complete the entire module by submitting an answer to each question in the module for full credit.  The completion of the module earns **10 points**.  (Whatever % completed, you will receive that percent of 10, 75% complete would be 7.5 )
+
+
+#### Skill Development 
+In addition, each module will have a **Skill Development** page that provides instructions on an particular analysis to complete and write a report.  You will construct your report using Google Slides and [embed the slideshow](https://blogs.acu.edu/adamscenter/2020/04/19/embed-a-google-slides-presentation-in-canvas/) into the Canvas discussion for that module. 
+
+###### Report Guidelines
+Each report is a little different based on the skill being developed.  Be sure to understand what is being asked in each module's skill development.  Generally, each report wil have these components;
+- introduction of the analysis
+- description of how and what analysis was done
+- summary statistics, graphics, tables and test results
+- narrative including claims, explanation of evidence, interpretations and conclusions
+- additional questions and/or concerns
+
+###### Discussion Guidelines
+First deadline is the Saturday at noon deadline for submission of your post which is an embedded Google Slide Show.  Then you will have until we meet for the first time the following week to have your discussion (e.g., if we have class for the first time on Tuesday at 11am, then your discussion should be completed by Tuesday at 11am). 
+
+My minimum expectations for the discussion are;  
+- everyone post a comment to each group member's post
+- everyone respond to the comments the group made to your post
+
+With particular attention to;
+- the accuracy of each person's table and graphics.
+- the language and clarity in their narratives
+
+As a result of your participation in the discussion space;
+- you will be able notice and resolve discrepancies and inconsistencies in statistical analyses.
+- better clarify your reporting of an analysis.
+- improve your accuracy in conducting the analysis.
+
+###### Discussions Drive Improvement
+Hopefully, during the discussion you are able to see errors in your work or a better way to explain your findings. If so please make changes to your report and embed the modified report under your initial post. We will be developing a portfolio that includes each of your skill developments, so being diligent with an attitude towards continuous improvement of your reports will be of value when the portfolio is assessed at the conclusion of the semester.
+
+###### Grading of Skill Development Report and Discussion 
+Each report and discussion is worth a total of *10 points*. Late submissions will not accepted.  Your 2 lowest grades out of the 10 modules will be dropped.  So, if extenuating circumstances come up, missing up to 2 skill developments will not affect your grade.
+
+**Grading Criteria**
+- Posted on Time (Sat at Noon) -  2 pts
+- Met Minimum Participation in Discussion - 2 pts
+- Report completely address the task - 2 pts
+- Report is accurate and clear - 3 pts
+- Discussion was productive - 1 pt (this is based on the overall group's discussion)
 
 ### Projects
 
