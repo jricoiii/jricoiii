@@ -43,7 +43,7 @@ I have set up a course site at **Campuswire**, which will be our home base for c
 
 
 ## Interactive Statistical Applets
-The web has enabled a new set of resources to learn statistic through interaction called applets.    
+The web has enabled a new set of resources to learn statistics through interaction called applets.    
 - [ArtofStat Web Apps](http://www.artofstat.com/webapps.html)
 - [StatKey](http://www.lock5stat.com/StatKey/)
 - [Rossman/Chance Applet Collection](http://www.rossmanchance.com/applets/)
