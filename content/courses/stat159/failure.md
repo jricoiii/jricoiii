@@ -44,8 +44,8 @@ carelessness, excessive procrastination, refusing to take responsibility for
 one’s actions, or ignoring offers of assistance or constructive criticism.
 
 **For this reason, 5% of your grade will be dedicated to “quality of
-failure.”** To earn this 5%, you will write a reflection at the time of the final
-exam in which you discuss the quality of your failure over the semester. You
+failure.”** To earn this 5%, you will write a reflection at end of the semester
+in which you discuss the quality of your failure over the semester. You
 will be graded not on how much you failed, but what led to your failures and
 how you handled your failures. Were you willing to challenge yourself to take
 risks that might result in failure? Were you aware of when you have failed,
@@ -54,6 +54,8 @@ your failure to create something new and interesting? Have you grown from
 your failures? I hope this grade category will give you the freedom to try new
 things, and even to fail at them, and to come back having learned something
 from the experience. 
+
+**You will include the reflection in your final portfolio, and it will be graded as part of the portfolio.  It is 20% of your portfolio **
 
 
 
