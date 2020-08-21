@@ -62,7 +62,7 @@ My minimum expectations for the discussion are;
 
 Comment with particular attention to;
 - the accuracy of each person's table and graphics.
-- the language and clarity in their narratives
+- the language, clarity, consistency and flow in their narratives
 ***
 
 #### Discussions Drive Improvement
