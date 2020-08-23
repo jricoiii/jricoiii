@@ -21,7 +21,7 @@ In your group;
 Identify a concept.
 Design an experiment.  
 Determine your hypothesis
-Describe your measurement (response) variable.
+Describe your measurement(s) or (response) variable(s).
 Describe your treatment(s) and control.
 
 ## Phase II - Feedback
