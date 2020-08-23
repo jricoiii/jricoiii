@@ -48,3 +48,10 @@ Violations of these standards are defined in the [Procedure on Academic Dishones
 
 ## Tutoring
 The Math Learning Center will be online through Zoom.  I will update as details become available to me.
+
+## Mental Health Resources
+[**verywell**mind](verywellmind.com) has some excellent resource for mental health.  Here are a couple that I recommend.
+- [How to Reduce Stress in College](https://www.verywellmind.com/college-life-how-to-reduce-stress-3145176)
+- [What Is the Negativity Bias?](https://www.verywellmind.com/negative-bias-4589618)
+- [How to Stay Motivated When You Are Working From Home](https://www.verywellmind.com/work-from-home-motivation-4802480)
+- [How to Use Time Blocking to Manage Your Day](https://www.verywellmind.com/how-to-use-time-blocking-to-manage-your-day-4797509)
