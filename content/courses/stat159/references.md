@@ -39,7 +39,9 @@ The textbook (PDF) can be downloaded for free or contribution (**you can skip th
 
 ## Communication with Each Other and Professor
 I have set up a course site at **Campuswire**, which will be our home base for communication.
-- Sign up through this link at [Campuswire](https://campuswire.com/p/GC2A93A8D), then verify your account by obtaining a verification code by checking your Ohlone email.
+- Sign up through this class specific link at [Campuswire](https://campuswire.com/p/GC2A93A8D)
+- I think you first have to register for an account with Campuswire, and then verify your account by obtaining a verification code by checking your Ohlone email.
+- After your account is verified, then you need to enter the Class Code **2107** to finally enter the class.
 
 
 ## Interactive Statistical Applets
