@@ -25,8 +25,9 @@ Follow these steps to obtain access to ISLE.
 4. Enroll will appear, click on it.
 5. Select **RicoStatsF2020**.
 6. Then select your section (*you might not know the section, but WebAdvisor has that section detail*)
-7. You're in! 
-8. Bookmark the [ISLE Website](https://isle.kymetis.com/dashboard)
+7. If your section doesn't show up, you wil need to log out and log back in (this should refresh the list)
+8. You're in! 
+9. Bookmark the [ISLE Website](https://isle.kymetis.com/dashboard)
 
 ## Recommended Reference Statistics Book
 **OpenIntro Statistics** - published by the [OpenIntro](https://www.openintro.org/) team 
