@@ -43,6 +43,7 @@ I have set up a course site at **Campuswire**, which will be our home base for c
 - Sign up through this class specific link at [Campuswire](https://campuswire.com/p/GC2A93A8D)
 - I think you first have to register for an account with Campuswire, and then verify your account by obtaining a verification code by checking your Ohlone email.
 - After your account is verified, then you need to enter the Class Code **2107** to finally enter the class.
+- [Campuswire's Instructions for Joining a Class](https://intercom.help/campuswireHQ/en/articles/2695271-how-to-join-a-class-via-the-class-link)
 
 
 ## Interactive Statistical Applets
