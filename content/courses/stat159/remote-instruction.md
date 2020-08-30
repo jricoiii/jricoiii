@@ -6,7 +6,7 @@ menu:
   example:
     parent: Course Information
     weight: 13
-title: Remote Insturction
+title: Remote Instruction
 toc: true
 type: docs
 weight: 13
