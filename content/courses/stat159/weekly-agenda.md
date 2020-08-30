@@ -12,43 +12,54 @@ type: docs
 weight: 14
 ---
 
-## Week 1
+# Week 1
 
-### Goals
+## Goals
 - Better understand course structure
 - Better understand course expectations
 - Start building community, by getting to know eachother
 
 
-### Agenda
-#### First Day of Week
-1. **Welcome to Class**  
+## Agenda
 
-2. **Course Structure**
-  -  Modules
-  -  Hybrid
-    
-3. **Group (of 4) Breakout - I**
-  - Introduce yourself
-  - Why attending college?
-  - A show or series that you have enjoyed this summer? (or something fun you've been up to...)
+### First Day of Week
 
-4. **Overview of Semester**  
+[**Video of the Day**](https://youtu.be/iGdvGLjOB0Q)
 
-5. **Group Breakout - II** 
+**Welcome to Class**
+
+
+**Course Structure**
+- Weekly ISLE Lesson Overview
+- Hybrid Structure
+
+**First Group Breakout**
+- Introduce yourself
+- Why attending college
+- Something interesting?
+- A show/series that you've enjoyed this summer?
+
+
+**Overview of Semester** 
+  - Calendar
+  - Projects
+  - Grading
+
+**Group Breakout - II**
   - What's your life aspiration? (dream big!)
   - What's your favorite meal?  Can you cook it?  
   
-6. **5 minute self-reflection**
+**5 minute self-reflection**
   - What are your take-a-ways from today?
+  - Is there anything you are confused about?
   - Do you have any questions so far?  
   
-7. **Group Breakout - III**
-  - Share your reflection  
-  
-8. Questions?  Comments?
+**Group Breakout - III**
+  - Share your reflection
 
-#### Second Day of Week
+**Questions?  Comments?**
+
+### Second Day of Week
 
 
 
