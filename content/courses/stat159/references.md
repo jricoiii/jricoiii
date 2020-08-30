@@ -45,6 +45,13 @@ I have set up a course site at **Campuswire**, which will be our home base for c
 - After your account is verified, then you need to enter the Class Code **2107** to finally enter the class.
 - [Campuswire's Instructions for Joining a Class](https://intercom.help/campuswireHQ/en/articles/2695271-how-to-join-a-class-via-the-class-link)
 
+## OneNote for Archiving In-Class Notes
+The following link will open class notes for each section;
+- [Section 09](onenote:https://ohlone-my.sharepoint.com/personal/jrico_ohlone_edu/Documents/Class Notebooks/159-09-F20)
+- [Section 09](https://ohlone-my.sharepoint.com/personal/jrico_ohlone_edu/Documents/Class%20Notebooks/159-09-F20)
+- [Section 12]
+- [Section 14]
+
 
 ## Interactive Statistical Applets
 The web has enabled a new set of resources to learn statistics through interaction called applets.    
