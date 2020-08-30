@@ -24,13 +24,13 @@ weight: 14
 1. Welcome to Class  
 
 2. Course Structure
-  - Modules
-  - Hybrid
-  
+  -  Modules
+  -  Hybrid
+    
 3. Group (of 4) Breakout - I 
   - Introduce yourself
   - Why attending college?
-  - A show or series that you hav enjoyed this summer? (or something fun you've been up to...)
+  - A show or series that you have enjoyed this summer? (or something fun you've been up to...)
 
 4. Overview of Semester  
 
