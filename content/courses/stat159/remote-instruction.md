@@ -12,6 +12,16 @@ type: docs
 weight: 13
 ---
 
+## Goals of ConferZoom Session
+Support your intake of information from the ISLE lessons by;
+- Provide clarification (Answer Question that came up during intake)
+- Provide a new examples to help you assess understanding
+- Provide interacive, hands-on personal experience with a concept to make it more familiar to you 
+- Provide additional learning checks
+- Provide opportunities to elaborate and consult with classmates
+- Review question and student answers posed in the lesson
+
+
 ## Student Advice for Successful Remote Learning
 Being a remote learner is much different than being an in-person learner.  Much of the burden of learning get shifted to the student.  Presentation of class material is more difficult through a computer screen. Staying attentive and engaged is more challenging when no one is watching.  Speaking up and asking questions is more intimidating.  Connecting with your peers is tougher.  Finding a good quiet place to work and study can be challenging.  Therefore, you have to be more committed to your learning and be more proactive in getting help when you find yourself slipping.  Here are some tips for a more successful and enjoyable experience
 
