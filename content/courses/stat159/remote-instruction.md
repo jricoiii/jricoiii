@@ -14,12 +14,12 @@ weight: 13
 
 ## Goals of ConferZoom Session
 Support your intake of information from the ISLE lessons by;
-- Provide clarification (Answer Question that came up during intake)
-- Provide a new examples to help you assess understanding
-- Provide interacive, hands-on personal experience with a concept to make it more familiar to you 
-- Provide additional learning checks
-- Provide opportunities to elaborate and consult with classmates
-- Review question and student answers posed in the lesson
+- Provide clarification (answer your question that came up during intake).
+- Provide a new examples to help you assess your understanding.
+- Provide interactive, hands-on personal experience with a concept to make it more familiar to you. 
+- Provide additional learning checks through questioning.
+- Provide opportunities to elaborate and consult with classmates.
+- Review questions and student answers posed in the lesson.
 
 
 ## Student Advice for Successful Remote Learning
