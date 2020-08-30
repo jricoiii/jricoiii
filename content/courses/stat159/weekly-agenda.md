@@ -38,4 +38,4 @@ weight: 14
   - Do you have any questions so far?
 7. Group (of 4) Breakout - III
   - Share your reflection
-8. Questions
+8. Questions?  Comments?
