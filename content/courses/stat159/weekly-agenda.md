@@ -21,28 +21,39 @@ weight: 14
 
 
 ### Agenda
-1. Welcome to Class  
+#### First Day of Week
+1. **Welcome to Class**  
 
-2. Course Structure
+2. **Course Structure**
   -  Modules
   -  Hybrid
     
-3. Group (of 4) Breakout - I 
+3. **Group (of 4) Breakout - I**
   - Introduce yourself
   - Why attending college?
   - A show or series that you have enjoyed this summer? (or something fun you've been up to...)
 
-4. Overview of Semester  
+4. **Overview of Semester**  
 
-5. Group (of 4) Breakout - II 
+5. **Group Breakout - II** 
   - What's your life aspiration? (dream big!)
   - What's your favorite meal?  Can you cook it?  
   
-6. 5 minute self-reflection
+6. **5 minute self-reflection**
   - What are your take-a-ways from today?
   - Do you have any questions so far?  
   
-7. Group (of 4) Breakout - III
+7. **Group Breakout - III**
   - Share your reflection  
   
 8. Questions?  Comments?
+
+#### Second Day of Week
+
+
+
+
+
+
+
+
