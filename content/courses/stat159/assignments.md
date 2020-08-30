@@ -41,14 +41,17 @@ weight: 6
 There are 10 ISLE modules that will serve as our main guides throughout the semester.  You will need to complete the entire module by submitting an answer to each question in the module for full credit.  The completion of the module earns **10 points**.  If not 100% complete, you will receive a percent of the 10. (e.g.,  75% complete would be 7.5 out of 10 )
 
 #### Format of the Modules
-Page 1 - Learning Objectives   
-  - provides focus, attention
-Page 2 - Preparatory Work (*Intake Information*)  
-  - provides facts, terminology, introduction to ideas/concepts, learning checks
-Page 3 - Skill Demonstration (*Intake Information*)  
-  - provides examples, demonstration of tool, guided practice
-Page 4 - Skill Development (*Using Information, Building Skill*)  
-  - provides solo practice, reflection, discussion, modification, consultation 
+Page 1 - Learning Objectives
+- provides focus, attention
+
+Page 2 - Preparatory Work (*Intake Information*)
+- provides facts, terminology, introduction to ideas/concepts, learning checks
+
+Page 3 - Skill Demonstration (*Intake Information*)
+- provides examples, demonstration of tool, guided practice
+
+Page 4 - Skill Development (*Using Information, Building Skill*)
+- provides solo practice, reflection, discussion, modification, consultation 
 
 ### Skill Development 
 In addition, each module will have a **Skill Development** page that provides instructions on an particular analysis to complete and write a report.  You will construct your report using Google Slides and [embed the slideshow](https://blogs.acu.edu/adamscenter/2020/04/19/embed-a-google-slides-presentation-in-canvas/) into the Canvas discussion for that module. 
