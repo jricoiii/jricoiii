@@ -20,7 +20,7 @@ I want everyone to find this course very accessible, approachable and ultimately
 My main driving goal is for you to engage with the material and take the role of an statistical investigator.  You should develop your ability to communicate about topics, by making and supporting claims using statistical evidence.  Ultimately, this course is about enhancing your *voice* with new statistical language, concepts, and competencies.
 
 ## Ultimate Goal
-Everyone develops their appreciation towards data, curiosity to formulate interesting questions, tenacity to to discover insights from data, and their ability to tell a story with data.
+Everyone develops their appreciation towards data, curiosity to formulate interesting questions, tenacity to discover insights, and their ability to tell an evidence-based story .
 
 
 ## References
