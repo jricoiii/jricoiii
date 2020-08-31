@@ -26,6 +26,9 @@ weight: 14
 
 ##### [Video of the Day - What Can People Do to Get Better at Learning?](https://youtu.be/iGdvGLjOB0Q)
 
+##### Opening Question  
+- What resonated with you from the Video of the Day: *What can people do to get better at learning?*
+
 ##### Welcome to Class
 
 ##### Course Structure
