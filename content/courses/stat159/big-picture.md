@@ -20,12 +20,12 @@ I want everyone to find this course very accessible, approachable and ultimately
 My main driving goal is for you to engage with the material and take the role of an statistical investigator.  You should develop your ability to communicate about topics, by making and supporting claims using statistical evidence.  Ultimately, this course is about enhancing your *voice* with new statistical language, concepts, and competencies.
 
 ## Ultimate Goal
-- Everyone develops their appreciation towards data, curiosity to formulate interesting questions, tenacity to to discover insights from data, and their ability to tell a story with data.
+Everyone develops their appreciation towards data, curiosity to formulate interesting questions, tenacity to to discover insights from data, and their ability to tell a story with data.
 
 
-##References
+## References
 - [Medium article - Get better in data science writing and the opportunities will grow](https://towardsdatascience.com/get-better-in-data-science-writing-and-the-opportunities-will-grow-9d37fdada262)
-- [Tableau article - 10 skill sets every data scientist shoudl have](https://www.tableau.com/learn/articles/data-science-skills)
+- [Tableau article - 10 skill sets every data scientist should have](https://www.tableau.com/learn/articles/data-science-skills)
 
 
 
