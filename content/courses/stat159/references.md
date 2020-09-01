@@ -47,6 +47,7 @@ I have set up a course site at **Campuswire**, which will be our home base for c
 
 ## OneNote for Archiving In-Class Notes
 The following link will open class notes for each section (You should make your first access through Canvas's Class Notebook tab, since when inside Canvas you are automatically granted access through your Office 365 account)
+**LINKS DON'T SEEM TO WORK - YOU WILL NEED TO GAIN ACCESS THROUGH CANVAS CLASS NOTEBOOK - KEEP TRYING IT DOES WORK**
 - [Section 09](https://ohlone-my.sharepoint.com/personal/jrico_ohlone_edu/Documents/Class%20Notebooks/159-09-F20)
 - [Section 12](https://ohlone-my.sharepoint.com/personal/jrico_ohlone_edu/Documents/Class%20Notebooks/159-12-F20)
 - [Section 14](https://ohlone-my.sharepoint.com/personal/jrico_ohlone_edu/Documents/Class%20Notebooks/159-14-F20)
