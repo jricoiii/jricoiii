@@ -63,6 +63,39 @@ weight: 14
 
 #### Second Day of Week
 
+##### [Article of the Day - Self-Reflection 101](https://www.holstee.com/blogs/mindful-matter/self-reflection-101-what-is-self-reflection-why-is-reflection-important-and-how-to-reflect)
+
+##### Opening Question  
+- What resonated with you from the Article of the day: *Self-reflection 101*? (Answer in the chatroom for your section)
+
+##### Course Structure
+- Hybrid Structure
+- Learning Community
+
+##### First Group Breakout
+- Introduce yourself
+- When COVID is no more, what the first thing you can't wait to do?
+- If time permits - If you could be any animal for an hour (with guarantee you won't die), what animal would you choose?- If time permits
+
+##### Overview of Semester
+- Projects
+- Quality of Failure
+
+##### Group Breakout - II
+- What is your life aspriration (Your biggest dream?)
+- Share an album or single that you like (I'm going to also send out a survey so I can build a Spotify playlist to share so we can all get exposed to some new music)
+- What's your favorite smell?
+
+
+##### 5 minute self-reflection
+- What are your take-a-ways from today?
+- Is there anything you are confused about?
+- Do you have any questions so far?  
+  
+##### Group Breakout - III
+- Share your reflection
+
+##### Questions?  Comments?
 
 ## Week 2
 
