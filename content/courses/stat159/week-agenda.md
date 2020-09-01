@@ -81,6 +81,7 @@ weight: 14
 - Quality of Failure
 
 ### Group Breakout - II
+- Introduce yourself 
 - What is your life aspriration (Your biggest dream?)
 - Share an album or single that you like (I'm going to also send out a survey so I can build a Spotify playlist to share so we can all get exposed to some new music) 
 - [Survey for Section 9](https://forms.gle/wZpcBYUPQWmQM5Fb7)
@@ -95,6 +96,7 @@ weight: 14
 - Do you have any questions so far?  
   
 ### Group Breakout - III
+- Introduce yourself
 - Share your reflection
 
 ### Questions?  Comments?
