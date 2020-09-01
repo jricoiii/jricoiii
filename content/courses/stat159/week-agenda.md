@@ -85,7 +85,10 @@ weight: 14
 
 ##### Group Breakout - II
 - What is your life aspriration (Your biggest dream?)
-- Share an album or single that you like (I'm going to also send out a survey so I can build a Spotify playlist to share so we can all get exposed to some new music)
+- Share an album or single that you like (I'm going to also send out a survey so I can build a Spotify playlist to share so we can all get exposed to some new music) 
+- [Survey for Section 9](https://forms.gle/wZpcBYUPQWmQM5Fb7)
+- [Survey for Section 12](https://forms.gle/8qkjDbCop93HYrut7)
+- [Survey for Section 14](https://forms.gle/mudgKg6ZohfS5HCS8)
 - What's your favorite smell?
 
 
