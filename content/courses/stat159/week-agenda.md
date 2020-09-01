@@ -71,6 +71,8 @@ weight: 14
 ##### Course Structure
 - Hybrid Structure
 - Learning Community
+- Communication with Campuswire
+- ~~Office~~ Student Hours
 
 ##### First Group Breakout
 - Introduce yourself
