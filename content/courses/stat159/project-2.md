@@ -52,6 +52,9 @@ Describe any filters used.  Include appropriate numerical and graphical summarie
 ### IV. Conclusion 
 Summarize the results of your study.  What did you learn?  Did the data behave as you expected?  Critique the methods used to collect the data.  Is there anything you would do differently next time?  How might this affect the conclusions of the study?  What similar questions might someone choose to investigate in the future to build on your results?
 
+## 23 Experiments in Psychology
+[23 Experiment Ideas for Psychology Assignments](https://www.verywellmind.com/psychology-experiment-ideas-2795669)
+
 ## Ideas
 Can people memorize objects better if they are shown the objects in pictures or in words?
 Do age, gender, major, distraction, etc., affect memory?
