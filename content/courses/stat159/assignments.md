@@ -62,7 +62,7 @@ Each report is a little different based on the skill being developed.  Be sure t
 5. Additional questions and/or concerns
 
 #### Discussion Guidelines
-First deadline is **Saturday at noon** for submission of your post (i.e., an embedded Google Slide Show).  Then, you will have until we meet for the first time the following week to have completed your discussion (e.g., if we have class for the first time on Tuesday at 11am, then your discussion should be completed by Tuesday at 11am).  
+First deadline is **Saturday at noon** for submission of your post (i.e., an embedded Google Slide Show).  Then, you will have until the following Saturday to complete your discussion and to re-submit a final draft of your report.
 
 ***
 My minimum expectations for the discussion are; 
@@ -83,7 +83,7 @@ As a result of your participation in the discussion space;
 And hopefully, during the discussion you are able to see errors in your work or a better way to explain your findings. If so, please make changes to your report and embed the modified report (***tip***: *make a copy of the initial report, otherwise the initial slide show will change and you will lose your original report*) under your initial post. We will be developing a portfolio that includes each of your skill developments, so being diligent with an attitude towards continuous improvement of your reports will be of immense value when you work to clean up your portfolio for final submission at the conclusion of the semester.
 
 #### Grading of Skill Development Report and Discussion 
-Each report and discussion is worth a total of **10 points**. Late submissions will not accepted.  Your 2 lowest grades out of the 10 modules will be dropped.  So, if extenuating circumstances come up, missing up to 2 skill developments will not affect your grade.
+Each report and discussion is worth a total of **10 points**. I will grade your latest submitted Report, so any modification that you make will improve your grade.  Late submissions will not accepted.  Your 2 lowest grades out of the 10 modules will be dropped.  So, if extenuating circumstances come up, missing up to 2 skill developments will not affect your grade.
 
 **Grading Criteria**
 - Posted on Time (Sat at Noon) -  2 pts
