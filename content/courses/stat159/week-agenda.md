@@ -103,6 +103,24 @@ weight: 14
 
 # Week 2
 
+Agenda
+
+Variable Types
+- categorical vs numerical
+
+Data Structure
+- rows, columns
+
+Describing Data
+
+Generating Summaries
+- tables
+- plots
+
+Data Moves
+- filtering
+- binning
+- collapsing         
 
 
 
