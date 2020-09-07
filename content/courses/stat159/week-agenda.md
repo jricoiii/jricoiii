@@ -14,9 +14,9 @@ weight: 14
 ## Week 2
 
 ### Goals
-Review Lessons Zero and One
-Answer/Resolve any questions/issues
-Provide additional practice with Survey Data
+- Review Lessons Zero and One
+- Answer/Resolve any questions/issues
+- Provide additional practice with Survey Data
 
 ### Agenda
 
