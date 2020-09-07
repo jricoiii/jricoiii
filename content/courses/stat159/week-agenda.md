@@ -17,6 +17,7 @@ weight: 14
 - Review Lessons Zero and One
 - Answer/Resolve any questions/issues
 - Provide additional practice with Survey Data
+- Provide in-class time to work on Lesson One Report
 
 ### Agenda
 
@@ -29,7 +30,9 @@ weight: 14
 - 3 Components of Statistics
 - Inferential Statistics
 
-#### Lesson One
+#### Breakout - Lesson Zero Recap
+
+#### Lesson One Recap
 
 #### Variable Types
 - categorical vs numerical
@@ -46,7 +49,13 @@ weight: 14
 #### Data Moves
 - filtering
 - binning
-- collapsing         
+- collapsing   
+
+#### Additional Practice of Lesson One Skills with Survey Data
+- Question Prompts and Discussion
+
+#### In-Class Free Work
+- Ask question/share screen as needed
 
 ## Week 1
 
