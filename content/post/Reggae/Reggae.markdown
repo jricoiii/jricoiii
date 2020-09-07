@@ -1,7 +1,6 @@
 ---
 title: "Reggae"
 output: html_document
-date: 09/07/2020
 ---
 
 Reggae on the Radio
