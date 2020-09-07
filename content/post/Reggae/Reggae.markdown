@@ -5,8 +5,9 @@ output: html_document
 
 Reggae on the Radio
 
-Monday Afternoon 12-2pm PST Roots and Riddims - KUCI (UC - Irvine) - LISTEN LIVE
-Roots Reggae Inna Rub A Dub Style w/ DJ Yogi
+Monday Evenings 6-8pm PST 
+[**The Dread Zone - KUCI (UC - Irvine)**](https://kuci.org/wp/shows/the-dread-zone/)
+Funky Reggae, Groove & Soul with Jarret Lovell
 
 Monday Afternoon 12-3pm PST Jah's Music - KKUP (SF Bay Area) - LISTEN LIVE
 Classic roots & contemporary Reggae in a conscious style.
