@@ -5,15 +5,14 @@ output: html_document
 
 Reggae on the Radio
 
-Monday Evenings 6-8pm PST 
-[**The Dread Zone - KUCI (UC - Irvine)**](https://kuci.org/wp/shows/the-dread-zone/)
-Funky Reggae, Groove & Soul with Jarret Lovell
+
 
 Monday Afternoon 12-3pm PST Jah's Music - KKUP (SF Bay Area) - LISTEN LIVE
 Classic roots & contemporary Reggae in a conscious style.
 
-Monday Evening 6-8pm PST The Dread Zone - KUCI (UC - Irvine) - LISTEN LIVE
-Funky Reggae, Groove & Soul w/ Jarret Lovel
+Monday Evenings 6-8pm PST  
+[**The Dread Zone - KUCI (UC - Irvine)**](https://kuci.org/wp/shows/the-dread-zone/)  
+Funky Reggae, Groove & Soul with Jarret Lovell
 
 Monday Evening - 6-8pm - Reggae Connection DJ Junor Francis - KPSC  (Claremont College, CA) - LISTEN LIVE
 The high energy Reggae Connection takes a glorious trip down memory lane with some of the most devastatingly beautiful Ska, Rocksteady, early Reggae selections, plus a fantastic sprinkle of current dance hall favorites.

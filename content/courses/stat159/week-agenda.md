@@ -20,7 +20,11 @@ weight: 14
 
 ### Agenda
 
-#### Lesson Zero 
+#### Quick Breakout (6min)
+- How was your Labor Day weekend?
+- Did you find a way to beat the heat?
+
+#### Quick Check of Lesson Zero 
 - Random Assignment
 - 3 Components of Statistics
 - Inferential Statistics
