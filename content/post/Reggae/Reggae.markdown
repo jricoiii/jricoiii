@@ -7,7 +7,8 @@ Reggae on the Radio
 
 
 
-Monday Afternoon 12-3pm PST Jah's Music - KKUP (SF Bay Area) - LISTEN LIVE
+Monday Afternoon 12-3pm PST
+[**Jah's Music - KKUP (SF Bay Area)**](https://kkup.org/)
 Classic roots & contemporary Reggae in a conscious style.
 
 Monday Evenings 6-8pm PST  
