@@ -59,37 +59,35 @@ The Math Learning Center will be online through Zoom.  I will update as details 
 ## StepUpOhlone Resources
 - [Inclass Presentation](/pdf/stepup.pdf)
 
-Student Health Center
-(510) 659-6258
-studenthealth@ohlone.edu
-https://www.ohlone.edu/healthcenter
+### Student Health Center
+- (510) 659-6258
+- studenthealth@ohlone.edu
+- https://www.ohlone.edu/healthcenter
  
 
-Self-care Resources
-https://www.cccstudentmentalhealth.org/
-https://wellnesscentral.info/
-https://cvc.edu/wellness
+### Self-care Resources
+- https://www.cccstudentmentalhealth.org/
+- https://wellnesscentral.info/
+- https://cvc.edu/wellness
  
 
-Kognito
-https://ccc.kognito.com
-How to help someone in need
+### Kognito
+- https://ccc.kognito.com
+- How to help someone in need
  
 
-Virtual Yoga
-https://cccconfer.zoom.us/j/91807758967
-Fridays @ 9am, Oct 2 - Nov 20
+### Virtual Yoga
+- https://cccconfer.zoom.us/j/91807758967
+- Fridays @ 9am, Oct 2 - Nov 20
  
 
-Step Up!
-https://stepupohlone.org/
-Text “ohlonewellness” to 31996
-https://facebook.com/stepupohlone
- 
+### Step Up!
+- https://stepupohlone.org/
+- Text “ohlonewellness” to 31996
+- https://facebook.com/stepupohlone
+- instagram @stepupohlone 
 
-Life Lines
-Crisis support line - 24 hours
-1-800-309-2131
-741 741 - Text “courage”
-Suicide Prevention Lifeline - 24 hours
-1-800-273-TALK (8255)
+### Life Lines
+- Crisis support line - 24 hours 1-800-309-2131
+- 741 741 - Text “courage”
+- Suicide Prevention Lifeline - 24 hours 1-800-273-TALK (8255)
