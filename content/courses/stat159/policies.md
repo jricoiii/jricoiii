@@ -57,7 +57,7 @@ The Math Learning Center will be online through Zoom.  I will update as details 
 - [How to Use Time Blocking to Manage Your Day](https://www.verywellmind.com/how-to-use-time-blocking-to-manage-your-day-4797509)
 
 ## StepUpOhlone Resources
-- [Inclass Presentation]("public/pdf/stepup.pdf)
+- [Inclass Presentation](/pdf/stepup.pdf)
 
 Student Health Center
 (510) 659-6258
