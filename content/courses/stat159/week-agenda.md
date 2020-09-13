@@ -11,6 +11,26 @@ toc: true
 type: docs
 weight: 14
 ---
+## Week 3
+
+    categorical={['subject_race', 'search_conducted', 'contraband_found', 'citation_issued', 'arrest_made', 'reason_for_stop', 'use_of_force_description')
+    ]}
+
+
+### Goals 
+- Refresh/Review Lesson One Skills
+- Group Discussion Time
+- Discuss new concepts
+- Demonstrate New Skills
+- Practice New Skills
+
+### Agenda
+- Group Discussion of Skill Development
+- 01-SkDev Lingering Questions
+- Explanatory and Response Variables
+- Is a Relationship Associated vs Independent
+
+
 ## Week 2
 
 ### Goals
