@@ -13,22 +13,23 @@ weight: 14
 ---
 ## Week 3
 
-    categorical={['subject_race', 'search_conducted', 'contraband_found', 'citation_issued', 'arrest_made', 'reason_for_stop', 'use_of_force_description')
-    ]}
-
-
 ### Goals 
-- Refresh/Review Lesson One Skills
 - Group Discussion Time
-- Discuss new concepts
-- Demonstrate New Skills
-- Practice New Skills
+- Refresh/Review Lesson One Skills
+- Discuss new concepts via Lesson 2 Page 2
+- Demonstrate New Skills via Lesson 2 Page 3
+- Practice New Skills via 02-Supplemental 
 
 ### Agenda
 - Group Discussion of Skill Development
-- 01-SkDev Lingering Questions
+- 01-SkDev Lingering Questions  ???
 - Explanatory and Response Variables
 - Is a Relationship Associated vs Independent
+- Creating the Contingency Table
+- Creating Bar Graphs for 2 categorical Variables
+- Create Mosaic Plots
+- Supplemental Practice Old and New Skills
+- Lesson 2 Report Time to Work
 
 
 ## Week 2
