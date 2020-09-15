@@ -21,6 +21,7 @@ weight: 14
 - Practice New Skills via 02-Supplemental 
 
 ### Agenda
+- Announcement (Hot Spots, Discord)
 - Group Discussion of Skill Development
 - 01-SkDev Lingering Questions  ???
 - Explanatory and Response Variables
