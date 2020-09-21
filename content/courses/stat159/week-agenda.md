@@ -11,6 +11,26 @@ toc: true
 type: docs
 weight: 14
 ---
+## Week 4
+- Group Discussion Time
+- Discuss new concepts via Lesson 3 Page 2
+- Demonstrate New Skills via Lesson 3 Page 3
+- Practice New Skills via 03-Supplemental 
+
+## Agenda
+- My View on Lesson One Skill Development 
+- Class Feedback - How are things going?
+- New Rubric for Skill Developments
+- Group Virtual Meetings outside of class
+- look at our sleep times (breakout)
+- summary statistics for *center*
+- summary statistics for *spread*
+- example: `commute time` (breakout)
+- histograms 
+- boxplots
+
+
+
 ## Week 3
 
 ### Goals 
