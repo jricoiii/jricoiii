@@ -11,6 +11,20 @@ toc: true
 type: docs
 weight: 14
 ---
+## Week 5
+- Gain understanding of how to look at a numerical variable broken down by a categorical variable
+- Practice making summary statistics and graphics that aid in evaluating association and differences
+- Practice writing up narrative summaries 
+
+## Agenda
+- Explanation of **Lead-in**
+- Demonstration of Data Skills for **AGEP of Fremont vs Berkeley**
+- BREAKOUT - Discussion of Data Output for **AGEP of Fremont vs Berkeley**
+- BREAKOUT - Practice of Data Skills for **Income of Fremont vs Saratoga/Los Altos**
+- BREAKOUT - Discussion of Data Output for **Income of Fremont vs Saratoga/Los Altos**
+- If time permits additional BREAKOUT - Practice of Data Skills for **AGEP of Fremont vs. San Jose**
+- Additional Practice with **04-Supplemental Data - USA Births**
+
 ## Week 4
 - Group Discussion Time
 - Discuss new concepts via Lesson 3 Page 2
