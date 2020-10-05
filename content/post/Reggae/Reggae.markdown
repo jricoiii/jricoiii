@@ -9,23 +9,23 @@ Reggae on the Radio
 
 Monday Afternoon 12-3pm PST  
 [**Jah's Music - KKUP (SF Bay Area)**](https://kkup.org/)  
-Classic roots & contemporary Reggae in a conscious style.
+*Classic roots & contemporary Reggae in a conscious style.*
 
 Monday Evenings 6-8pm PST  
 [**The Dread Zone - KUCI - UC-Irvine**](https://kuci.org/wp/shows/the-dread-zone/)  
-Funky Reggae, Groove & Soul with Jarret Lovell
+*Funky Reggae, Groove & Soul with Jarret Lovell*
 
 Monday Evening - 6-8pm PST  
 [**Reggae Connection DJ Junor Francis - KPSC - Claremont College, CA**](https://kspc.org/listen/)  
-The high energy Reggae Connection takes a glorious trip down memory lane with some of the most devastatingly beautiful Ska, Rocksteady, early Reggae selections, plus a fantastic sprinkle of current dance hall favorites.
+*The high energy Reggae Connection takes a glorious trip down memory lane with some of the most devastatingly beautiful Ska, Rocksteady, early Reggae selections, plus a fantastic sprinkle of current dancehall favorites.*
 
 Tuesday Morning 9am-12noon PST  
 [**All Fruits Ripe -Dee Jay Spleece - KZSC - UC Santa Cruz**](https://www.kzsc.org/listen/)  
-Reggae & JA Dancehall radio show hosted by Daddy Spleece of Reality Sound Int'l.
+*Reggae & JA Dancehall radio show hosted by Daddy Spleece of Reality Sound Int'l.*
 
 Tuesday Evening 4-5pm PST  
-[**Train to Skaville - DJ Brian Tomsic - WCBN - Ann, Arbor, Michigan**]
-Bringing you the best in vintage Jamaican music of the 60s and 70s.  Original ska, rocksteady, reggae and dub-hits and rarities, interviews with artists and more.  On the air since May 10, 1988.  
+[**Train to Skaville - DJ Brian Tomsic - WCBN - Ann, Arbor, Michigan**](www.wcbn.org)  
+*Bringing you the best in vintage Jamaican music of the 60s and 70s.  Original ska, rocksteady, reggae and dub-hits and rarities, interviews with artists and more.  On the air since May 10, 1988.*  
  
 Wednesday Late  Midnight - 3am PST, Irie Journeys - KKUP 91.5 (Bay Area) - Selecta G-Nyze -   LISTEN LIVE 
 A 3hr reggae journey from the ska and rocksteady era to reggae, lovers rock, Island vibez style reggae, domestic reggae also.. classic and modern roots and dancehall..hosted by Selektah G-Nyze...tune in and enjoy the ride.!
