@@ -11,6 +11,16 @@ toc: true
 type: docs
 weight: 14
 ---
+## Week 6
+This week you have the opportunity to conduct your own analysis of the ACS data.  This is our first self-directed project.  I will be providing support along with your classmates. 
+
+## Agenda
+- Week 3 and 4 - Skill Developments - Feedback
+- Group Breakout - Brainstorm Project Ideas
+- Whole Class Discussion of Projects
+- Individual Consultations
+
+
 ## Week 5
 - Gain understanding of how to look at a numerical variable broken down by a categorical variable
 - Practice making summary statistics and graphics that aid in evaluating association and differences
