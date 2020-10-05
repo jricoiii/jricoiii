@@ -15,11 +15,11 @@ Monday Evenings 6-8pm PST
 [**The Dread Zone - KUCI - UC-Irvine**](https://kuci.org/wp/shows/the-dread-zone/)  
 Funky Reggae, Groove & Soul with Jarret Lovell
 
-Monday Evening - 6-8pm PST 
+Monday Evening - 6-8pm PST  
 [**Reggae Connection DJ Junor Francis - KPSC - Claremont College, CA**](https://kspc.org/listen/)  
 The high energy Reggae Connection takes a glorious trip down memory lane with some of the most devastatingly beautiful Ska, Rocksteady, early Reggae selections, plus a fantastic sprinkle of current dance hall favorites.
 
-Tuesday Morning 9am-12noon PST 
+Tuesday Morning 9am-12noon PST  
 [**All Fruits Ripe -Dee Jay Spleece - KZSC - UC Santa Cruz**](https://www.kzsc.org/listen/)  
 Reggae & JA Dancehall radio show hosted by Daddy Spleece of Reality Sound Int'l.
 
