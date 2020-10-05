@@ -8,7 +8,7 @@ Reggae on the Radio
 
 
 Monday Afternoon 12-3pm PST  
-[**Jah's Music - KKUP (SF Bay Area)**](https://kkup.org/)
+[**Jah's Music - KKUP (SF Bay Area)**](https://kkup.org/)  
 Classic roots & contemporary Reggae in a conscious style.
 
 Monday Evenings 6-8pm PST  
@@ -20,7 +20,7 @@ Monday Evening - 6-8pm PST
 The high energy Reggae Connection takes a glorious trip down memory lane with some of the most devastatingly beautiful Ska, Rocksteady, early Reggae selections, plus a fantastic sprinkle of current dance hall favorites.
 
 Tuesday Morning 9am-12noon PST 
-[**All Fruits Ripe -Dee Jay Spleece - KZSC - UC Santa Cruz**](https://www.kzsc.org/listen/)
+[**All Fruits Ripe -Dee Jay Spleece - KZSC - UC Santa Cruz**](https://www.kzsc.org/listen/)  
 Reggae & JA Dancehall radio show hosted by Daddy Spleece of Reality Sound Int'l.
 
 Tuesday Evening 4-5pm PST  
