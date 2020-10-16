@@ -11,6 +11,18 @@ toc: true
 type: docs
 weight: 14
 ---
+
+## Week 7
+This week will be starting to build a conceptual foundation for statistical inference.  The building blocks are probability and probability distribution functions.  The primary goals of the week are;  
+- to get familiar with how we can obtain a probability of an event from a distribution.
+- see how to approximate the binomial distribution with a normal distribution
+
+## Agenda
+- Interactive discussion of Lesson 5 - Distribution
+- Day 1 wil focus on Page 3 - Binomial Distribution
+- Day 2 will focus on Pages 4 and 5 - Normal Distribution
+
+
 ## Week 6
 This week you have the opportunity to conduct your own analysis of the ACS data.  This is our first self-directed project.  I will be providing support along with your classmates. 
 
