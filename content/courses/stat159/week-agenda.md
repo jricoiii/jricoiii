@@ -19,7 +19,8 @@ Day 1
 - Page 2: Vocabulary Quiz
 - Page 3: Generating and Describing the Sampling Distribution
 - Page 3: Influence of Sample Size on Sampling Distribution
-- Using ArtofStat's Sampling Distribution App
+- Using ArtofStat's Sampling Distribution App  
+
 Day 2
 - Breakouts on Lesson 05 ISLE Skill Development Report 
 - Video: Polling and Predicting Elections 2020
