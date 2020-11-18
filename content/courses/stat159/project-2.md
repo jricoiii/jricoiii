@@ -12,6 +12,8 @@ type: docs
 weight: 9
 ---
 
+## Adjustment to Project for Fall 2020
+We will be running an experiment in class and demonstrate how we examine the results and assess if the results are statistically significant.  Then we will be given an experiment to participate in.  I will share the data with the class via an ISLE Data Explorer.  You will complete the report (Project II).
 
 
 Your group will develop and execute an experiment with random assignment of the treatment(s) and control.
@@ -32,7 +34,7 @@ I will create the survey from your questions with your input.  We will try to li
 Then we will distribute the survey to at least my three sections of statistics. (Hopefully, we can also distribute to some communication courses.)  After the surveys are completed, I will then provide a module with the data in a data explorer for your use.
 
 ## Phase IV - Analysis
-Examine your data.  compare response variable across treatment(s) and control. Assess causality through classical inferential tenchniques along with randomization by reallocation.
+Examine your data.  Compare response variable across treatment(s) and control. Assess causality through classical inferential tenchniques along with randomization by reallocation.
 
 ## Phase V - Report Findings
 Develop a set of slides (Google Slides) or website (Google Sites)
