@@ -36,7 +36,7 @@ I am breaking our semester into 4 phases
 | 6     | Mar1   | 05 Relationships between Numerical and Categorical Variables |   Check Canvas   |
 | 7     | Mar8   | First Project Consultations and In-Class Project Snapshots   |      |
 | 8     | Mar15  | First Project Appointments and Fine-Tuning                   |      |
-| 9     | Mar22  | Spring Break                                                 |      |
+|       | Mar22  | Spring Break                                                 |      |
 
 **2nd Quiz will be during Week 5 and will cover module 3.**  
 **3rd Quiz will be during Week 8 and will cover modules 4 and 5**  
@@ -59,7 +59,7 @@ I am breaking our semester into 4 phases
 | 14    | May3    | Second Project - Consulatations                             |      |
 | 15    | May10   | Second Project - Presentations                              |                  |
 
-**4th Quiz will be during week 13 and will cover modules 6 and 7**
+**4th Quiz will be during week 13 and will cover modules 6 and 7**  
 **Final Exam will be released on May 10th and is due May 17th at Midnight**
 
 
@@ -123,23 +123,33 @@ As a result of your participation in the discussion space;
 And hopefully, during the discussion you are able to see errors in your work or a better way to explain your findings. If so, please make changes to your report and embed the modified report (***tip***: *make a copy of the initial report, otherwise the initial slide show will change and you will lose your original report*) under your initial post. We will be developing a portfolio that includes all of your works, so being diligent with an attitude towards continuous improvement of your reports will be of immense value when you work to clean up your portfolio for final submission at the conclusion of the semester.
 
 
+### Quizzes
+We will have 4 quizzes to test you on the skills being developed in the ISLE modules.  You will complete these outside of class on a given day.  (I will release the quiz in the morning and it will be due by the following morning).  The quiz will mainly be short answer and should take no longer than 1 hour.
+
 ### Projects
-Each project will be worth 25 pts.  *Grading criteria for the project is still being developed. Details to be shared as soon as possible.*
+Each project will be worth 30 pts.  *Grading criteria for the project is still being developed. Details to be shared as soon as possible.*
 
+### Article Presentation 
+The week 9-10 article analysis mini-project will be worth 20 points.*Grading criteria for the mini-project is still being developed. Details to be shared as soon as possible.*
 
-### Portfolio
-The final portfolio is a semester long effort, where you will build a website using Google Sites where each of your skill developments and projects will be housed.  At the end of the term, I will assess your semesters' work as a whole.  *Grading criteria for the portfolio is still being developed. Details to be shared as soon as possible.*
+### Final Exam
+The final exam will consist of three components; 
+- analysis of brand new data set
+- semester long portfolio of your work and reflections
+- quality of failure essay
+
 
 ## Overview of Grading
 
 | Component          | Number of | Point per  | Total Points | Proportion of Grade |
 |--------------------|-----------|------------|-------------|---------------------|
-| ISLE Modules       | 10        | 10         | 100         | 25%                 |
-| Skill Developments | 10        | 10         | 100         | 25%                 |
-| Projects           | 2         | 25         | 50          | 12.5%               |
-| Final Project      | 1         | 50         | 50          | 12.5%               |
-| Portfolio          | 1         | 100        | 100         | 25%                 |
+| ISLE Modules       | 7        | 12         | 84        | 23%                 |
+| Group Discussions  | 7        | 10         | 70        | 19%                 |
+| Quizzes            | 4        | 20         | 80       |  22%
+| Projects           | 2         | 30         | 60          | 16.5%               |
+| Article Presentation |  1      | 20         | 20          |  5.5%                  |
+| Final Exam         | 1         | 50         | 50          | 13.7%               |
 |                    |           |            |             |                     |
-| Totals             | 24        |            | 400         | 100%                |
+| Totals             |  22       |            |  364        | 100%                |
 
 
