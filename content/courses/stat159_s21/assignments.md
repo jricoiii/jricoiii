@@ -38,9 +38,9 @@ I am breaking our semester into 4 phases
 | 8     | Mar15  | First Project Appointments and Fine-Tuning                   |      |
 | 9     | Mar22  | Spring Break                                                 |      |
 
-**2nd Quiz will be during Week 5 and will cover module 3.**
-**3rd Quiz will be during Week 8 and will cover modules 4 and 5**
-**First Project will be due either Mar18 or Mar29 - you can choose**
+**2nd Quiz will be during Week 5 and will cover module 3.**  
+**3rd Quiz will be during Week 8 and will cover modules 4 and 5**  
+**First Project will be due either Mar18 or Mar29 - you can choose**  
 
 ### Phase Three: Statistical Article Analysis
 
