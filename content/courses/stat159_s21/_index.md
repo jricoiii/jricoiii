@@ -5,7 +5,7 @@ lastmod: "2018-09-09T00:00:00Z"
 linktitle: Math 159 Statistics Spring 2021
 menu:
   example:
-    name: Math 159 Introductory Statistics Spring 2021
+    name: Math 159 Spring 2021
     weight: 2
 summary: Introductory Statistics at Ohlone College
 title: Math 159 Spring 2021
