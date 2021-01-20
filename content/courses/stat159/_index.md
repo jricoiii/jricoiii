@@ -9,7 +9,7 @@ menu:
     weight: 1
 summary: Introductory Statistics at Ohlone College
 title: Math 159 Fall 2020
-toc: true
+toc: false
 type: docs
 weight: 1
 ---
