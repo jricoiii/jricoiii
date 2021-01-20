@@ -32,26 +32,46 @@ I am breaking our semester into 4 phases
 
 | Week  | Start  | Assignment                                                   |     Due Dates  |
 |-------|--------|--------------------------------------------------------------|:----------------:|
-| 4     |   | 04 Introduction to Numerical Variables                       |   Sep26 @ Noon   |
-| 5     | Sep28  | 05 Relationships between Numerical and Categorical Variables |    Oct3 @ Noon   |
-| 6     | Oct5   | [**Project I - Observational Study**](/courses/stat159/project-one/index.html)  |   Oct10 @ Noon   |
-| 7     | Oct12  | 05 Distributions                                             |   Oct17 @ Noon   |
-| 8     | Oct19  | 06 Sampling                                                  |   Oct24 @ Noon   |
-| 9     | Oct26  | 07 Intro to Hypothesis Testing                               |   Oct31 @ Noon   |
-| 10    | Nov2   | 08 Theory-based Hypothesis Testing                           |    Nov7 @ Noon   |
-| 11    | Nov9   | 09 Comparing Two Samples                                     |   Nov14 @ Noon   |
-| 12    | Nov16  | 10 Chi Squared Test for Independence                         |   Nov21 @ Noon   |
-| 13    | Nov23  | [**Project II - Experimental Study**](/courses/stat159/project-2/index.html)    |    Dec5 @ Noon   |
-| 14    | Nov30  | Final Project                                                |                  |
-| 15    | Dec7   | Final Project                                                |                  |
-| 16    | Dec14  | Final Project                                                | Dec18 @ Midnight |
-|       |        | [Quality of Failure Essay](/courses/stat159/failure.html)    | Dec18 @ Midnight |
-|       |        | Portfolio                                                    | Dec18 @ Midnight |
+| 5     | Feb22  | 04 Introduction to Numerical Variables                       |   Check Canvas   |
+| 6     | Mar1   | 05 Relationships between Numerical and Categorical Variables |   Check Canvas   |
+| 7     | Mar8   | First Project Consultations and In-Class Project Snapshots   |      |
+| 8     | Mar15  | First Project Appointments and Fine-Tuning                   |      |
+| 9     | Mar22  | Spring Break                                                 |      |
+
+**2nd Quiz will be during Week 5 and will cover module 3.**
+**3rd Quiz will be during Week 8 and will cover modules 4 and 5**
+**First Project will be due either Mar18 or Mar29 - you can choose**
+
+### Phase Three: Statistical Article Analysis
+
+| Week  | Start  | Assignment                                                   |     Due Dates  |
+|-------|--------|--------------------------------------------------------------|:----------------:|
+| 9     | Mar29  | Group Work on Articles, Presentation Preparations           |    |
+| 10    | Apr5  | Group Presentations                                          |    |
+
+### Phase Four: Introducing Inference and Experiments
+
+| Week  | Start  | Assignment                                                   |     Due Dates  |
+|-------|--------|--------------------------------------------------------------|:----------------:|
+| 11    | Apr12   | 06 Inference Preliminaries                                   | Check Canvas   |
+| 12    | Apr19   | 07 Inference in Experiments                                 | Check Canvas  |
+| 13    | Apr26   | Second Project - In-Class Experiments                       |     |
+| 14    | May3    | Second Project - Consulatations                             |      |
+| 15    | May10   | Second Project - Presentations                              |                  |
+
+**4th Quiz will be during week 13 and will cover modules 6 and 7**
+**Final Exam will be released on May 10th and is due May 17th at Midnight**
+
 
 ## Description and Grading of Components  
 
 ### ISLE Modules
-There are 10 ISLE modules that will serve as our main guides throughout the semester.  You will need to complete the entire module by submitting an answer to each question in the module for full credit.  The completion of the module earns **10 points**.  If not 100% complete, you will receive a percent of the 10. (e.g.,  75% complete would be 7.5 out of 10 )
+There are 7 ISLE modules that will serve as our main guides throughout the semester.  
+
+To obtain full credit (12 points) for the module:  
+- You need to attempt every question for 10 points
+- If you don't complete the entire module, you will receive a proportion of 10 (e.g., 85% Completion Rate = 8.5 out of 10 points). You can see your percent complete by hovering over your name in the upper middle of the page.
+- Provide reasonable, thoughtful responses to the questions. I will randomly choose "a representative question or two" that will be spot-checked for 2 points.
 
 #### Format of the Modules
 - **Page 1 - Learning Objectives**
@@ -60,32 +80,39 @@ There are 10 ISLE modules that will serve as our main guides throughout the seme
   - provides facts, terminology, introduction to ideas/concepts, learning checks
 - **Page 3 - Skill Demonstration** (*Intake Information*)
   - provides examples, demonstration of tool, guided practice
-- **Page 4 - Skill Development** (*Using Information, Building Skill*)
+- **Page 4 - Group Discussion Prompts** (*Using Information, Building Skill*)
   - provides solo practice, reflection, discussion, modification, consultation 
 
-### Skill Development 
-In addition, each module will have a **Skill Development** page that provides instructions on an particular analysis to complete and write a report.  You will construct your report using Google Slides and [embed the slideshow](https://blogs.acu.edu/adamscenter/2020/04/19/embed-a-google-slides-presentation-in-canvas/) into the Canvas discussion for that module. 
+### Group Discussion
+In addition, each module will have a **Group Discussion Component** page that provides instructions on an particular analysis to complete and write a report.  You will construct your report using Google Slides and [embed the slideshow](https://blogs.acu.edu/adamscenter/2020/04/19/embed-a-google-slides-presentation-in-canvas/) into the Canvas discussion for that module. 
 
-#### Report Guidelines
-Each report is a little different based on the skill being developed.  Be sure to understand what is being asked in each module's skill development.  Generally, each report wil have these components;
-1. Introduction of the analysis
-2. Description of how and what analysis was done
-3. Summary statistics, graphics, tables and test results
-4. Narrative including claims, explanation of evidence, interpretations and conclusions
-5. Additional questions and/or concerns
 
 #### Discussion Guidelines
-First deadline is **Saturday at noon** for submission of your post (i.e., an embedded Google Slide Show).  Then, you will have until the following Saturday to complete your discussion and to re-submit a final draft of your report.
+This discussion consists of three phases;
 
-***
-My minimum expectations for the discussion are; 
-- everyone post a comment to each group member's post
-- everyone respond to the comments the group made to your post
+##### PHASE ONE :
+Your own attempt (in the form of an embedded Google Slides) is due either Friday or Saturday. (depends on your section - check Canvas)
 
-Comment with particular attention to;
-- the accuracy of each person's table and graphics.
-- the language, clarity, consistency and flow in their narratives
-***
+Details [here](https://ohlone.instructuremedia.com/embed/9991ac60-ecfb-4e09-a242-ed9f2075ad03) (go to end of video to see how to embed) -  
+
+ 
+
+##### PHASE TWO:
+As a group discuss your submissions and try to come to agreement on what your group wants to submit as a "final answer."  You can start this process as individual attempts are submitted.
+
+ 
+
+##### PHASE THREE: 
+A  group "final answer" submission is due the following week Tuesday or Wednesday at 10pm. (depends on your section - check Canvas)
+
+ 
+
+##### GRADING:
+You will get a grade for the discussion based on your participation and the correctness of the "final answers." To obtain full credit for the discussion;
+
+- 5 pts for submitting your own attempt that is reasonable (3pts) and on time (2pts).
+- 2 pts for thoughtful (1pt) participation (1pt) in the discussion.
+- 3 pts for thoughtful/correctness/quality in the "final answer", everyone in the group gets these points.
 
 #### Discussions Drive Improvement
 As a result of your participation in the discussion space;
@@ -93,17 +120,8 @@ As a result of your participation in the discussion space;
 - Improve clarity in the reporting of an analysis.
 - Improve accuracy in conducting the analysis.
 
-And hopefully, during the discussion you are able to see errors in your work or a better way to explain your findings. If so, please make changes to your report and embed the modified report (***tip***: *make a copy of the initial report, otherwise the initial slide show will change and you will lose your original report*) under your initial post. We will be developing a portfolio that includes each of your skill developments, so being diligent with an attitude towards continuous improvement of your reports will be of immense value when you work to clean up your portfolio for final submission at the conclusion of the semester.
+And hopefully, during the discussion you are able to see errors in your work or a better way to explain your findings. If so, please make changes to your report and embed the modified report (***tip***: *make a copy of the initial report, otherwise the initial slide show will change and you will lose your original report*) under your initial post. We will be developing a portfolio that includes all of your works, so being diligent with an attitude towards continuous improvement of your reports will be of immense value when you work to clean up your portfolio for final submission at the conclusion of the semester.
 
-#### Grading of Skill Development Report and Discussion 
-Each report and discussion is worth a total of **10 points**. I will grade your latest submitted Report, so any modification that you make will improve your grade.  Late submissions will not accepted.  Your 2 lowest grades out of the 10 modules will be dropped.  So, if extenuating circumstances come up, missing up to 2 skill developments will not affect your grade.
-
-**Grading Criteria**
-- Posted on Time (Sat at Noon) -  2 pts
-- Met Minimum Participation in Discussion - 2 pts
-- Report completely address the task - 2 pts
-- Report is accurate and clear - 3 pts
-- Discussion was productive - 1 pt (this is based on the overall group's discussion)
 
 ### Projects
 Each project will be worth 25 pts.  *Grading criteria for the project is still being developed. Details to be shared as soon as possible.*
