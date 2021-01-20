@@ -4,7 +4,7 @@ draft: false
 linktitle: Remote Instruction
 menu:
   example:
-    parent: Course Information
+    parent: Math 159 Spring 2021
     weight: 13
 title: Remote Instruction
 toc: true

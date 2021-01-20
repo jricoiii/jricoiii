@@ -4,7 +4,7 @@ draft: false
 linktitle: Learning Community
 menu:
   example:
-    parent: Course Information
+    parent: Math 159 Spring 2021
     weight: 2
 title: Learning Community
 toc: true

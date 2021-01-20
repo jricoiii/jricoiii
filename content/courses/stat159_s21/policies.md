@@ -4,7 +4,7 @@ draft: false
 linktitle: Policies and Support
 menu:
   example:
-    parent: Course Information
+    parent: Math 159 Spring 2021
     weight: 12
 title: Policies and Support
 toc: true

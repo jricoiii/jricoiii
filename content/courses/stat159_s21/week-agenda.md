@@ -4,7 +4,7 @@ draft: false
 linktitle: Weekly Agenda
 menu:
   example:
-    parent: Course Information
+    parent: Math 159 Spring 2021
     weight: 14
 title: Weekly Agenda
 toc: true
