@@ -22,21 +22,21 @@ Please use Campuswire for all communication. I am attempting to make this course
 I will be sending all communications out via Campuswire.  
 
 ## Student Hours
-You've probably heard of *office hours*, I decided this is an outdated term (especially during Covid), so instead I am calling the time that I have set aside each week to help you as my **Student Hours**.  My students hours are listed in the table below.  Just send me a Direct Message through Campuswire and we can chat and figure if we need to have either a Zoom or ISLE session.  If these times do not work for you, send me a message explaining you situation and we will figure out alternative time to meet.
+You've probably heard of *office hours*, I decided this is an outdated term (especially during Covid), so instead I am calling the time that I have set aside each week to help you as my **Student Hours**.  My students hours are listed in the table below.  Just send me a Direct Message through Campuswire and we can chat and figure if we need to have either a Zoom or ISLE session.  If this time do not work for you, send me a message explaining your situation and we will figure out alternative time to meet.
 
 | Day of Week  | Time Available                 |
 |--------------|--------------------------------|
-| Monday       | 12:00 - 12:45 and 2:15 - 3:00  |
-| Tuesday      | 12:30 - 2:00                   |
-| Wednesday    | 12:00 - 12:45 and 2:15 - 3:00  |
-| Thursday     | 12:30 - 2:00                   |
+| Monday       | 12:45 - 2:00   |
+| Tuesday      | 12:45 - 2:00                 |
+| Wednesday    | 12:45 - 2:00   |
+| Thursday     | 12:45 - 2:00                   |
 
 ## Technology
-We will be meeting online in Canvas through Zoom. You will need a reliable internet connection and a device.  I recommend having an two monitors (i.e., connect your laptop to an external monitor) for the virtual classes, one monitor to observe the class and one monitor to use for your own work.  **If you need technology to be successful in a remote learning environment, you may submit an [Emergency Technology Equipment Request form](https://ohlone.formstack.com/forms/emergency_technology_equipment_request_form). I am happy to assist you if needed.**
+We will be meeting online in Canvas through Zoom. You will need a reliable internet connection and a device.  I recommend having an two monitors (i.e., connect your laptop to an external monitor) for the virtual classes, one monitor to observe the class and one monitor to use for your own work.  **If you need technology to be successful in a remote learning environment, you may submit an [Emergency Technology Equipment Request form](https://ohlone.formstack.com/forms/emergency_technology_equipment_request_form).  You can request a webcam, a wifi hotspot, or chromebook/laptop.  I am happy to assist you if needed.**
 
 ## Webcam
-Having a webcam will allow for much better interaction between your classmates and instructors.  When I can not see who I am teaching, the experience is pretty draining and not enjoyable.  I will not require everyone to have their camera on, but I would like each of us to think about turning **ON** their webcam and what it can do to **improve the learning experience**.  I understand that during class (especialy when the teacher is just talking), having the camera on all that time is a somewhat uncomfortable.  I just want us to be able to see eachother, especially when we go into small breakout rooms.   
-(**So, what I am saying is that when we are in an entire class session, it's fine to have your webcam off.  But, when we go into breakout rooms, I really wish for us all to be able to see eachother by turning on our webcams**)
+Having a webcam will allow for much better interaction between your classmates and instructors.  When I can not see who I am teaching, the experience is pretty draining and not enjoyable.  I will not require everyone to have their camera on, but I would like each of us to think about turning **ON** their webcam and see what it can do to **improve your learning experience**.  I understand that during class (especialy when the teacher is just talking), having the camera on all that time is a somewhat uncomfortable, but realize that I am  
+
 
 ## Accomodations
 The Ohlone College’s Student Accessibility Services (SAS) is designed to open the doors to educational and occupational opportunities for students with disabilities. Our primary purpose is to provide an opportunity for all individuals to gain maximum benefit from their educational experience. Specialized services and educational accommodations are provided to students with disabilities to help them achieve their educational and vocational goals. If you require learning accommodations, please contact me as soon as possible or visit the Ohlone Student Accessibility Services (SAS) (formerly DSPS) [website](https://www.ohlone.edu/sas) for additional information and/or assistance.  All information and documentation is confidential.  **Please feel encouraged to make an appointment with me privately to discuss your specific learning needs in my class.**
