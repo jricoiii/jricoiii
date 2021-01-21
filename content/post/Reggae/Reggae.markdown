@@ -95,3 +95,5 @@ High Grade Reggae - DJ I Care - FM 101.3 - Free Radio Santa Cruz
 Sunday Evening 8-10pm  
 Reggae Revelation - DJ Short Change - KPSU - Portland State University, Portland, OR 
 Reggae music in all forms. Running on the airwaves since 1999. Tune in to get a dose of roots and reality. Every episode is a mix of reggae classics, new releases and riddims, showcase of artists coming to town, and more.
+
+[Additional Link - Not Sure on Accuracy](http://www.ireggae.com/web.htm)
