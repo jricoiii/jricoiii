@@ -12,9 +12,6 @@ type: docs
 weight: 9
 ---
 
-## Adjustment to Project for Fall 2020
-We will be running an experiment in class and demonstrate how we examine the results and assess if the results are statistically significant.  Then we will be given an experiment to participate in.  I will share the data with the class via an ISLE Data Explorer.  You will complete the report (Project II).
-
 
 Your group will develop and execute an experiment with random assignment of the treatment(s) and control.
 
@@ -27,11 +24,16 @@ Describe your measurement(s) or (response) variable(s).
 Describe your treatment(s) and control.
 
 ## Phase II - Feedback
-Explain your plan with another group and together see how it can be improved or better clarified.  Make modifications if needed.  Submit your plan to the instructor through Canvas's Project II - Plan Proposal
+Explain your plan with another group and together see how it can be improved or better clarified.  Make modifications if needed.  Submit your plan to the instructor through Canvas's Project II - Plan Proposal.
+
+### Plan Proposal Components
+- background and why you are wishing to run this experiment
+- describe the experiment?
+- what are your measurement / response variable(s)?
+- what are your treatments and control?
 
 ## Phase III -  Run Experiment 
-I will create the survey from your questions with your input.  We will try to limit the survey to 20-40 questions.
-Then we will distribute the survey to at least my three sections of statistics. (Hopefully, we can also distribute to some communication courses.)  After the surveys are completed, I will then provide a module with the data in a data explorer for your use.
+We will have the week of April 26-29 to run the experiments in class.  (or you can assign the experiment to be completed outside of class)  
 
 ## Phase IV - Analysis
 Examine your data.  Compare response variable across treatment(s) and control. Assess causality through classical inferential tenchniques along with randomization by reallocation.
