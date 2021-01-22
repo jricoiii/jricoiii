@@ -88,7 +88,7 @@ Sunday Morning - 9-11 am PST
 Reggae Children - WFHB - Bloomington, IN
 
 Sunday Afternoons 
-BBC 1XTRA - DJ David Rodigan - ARCHIVES
+BBC 1XTRA - DJ David Rodigan
 
 Sunday Afternoon 2-4pm  
 Reggae Central - DJ Chuck Foster - KPFK (Southern California)
