@@ -122,6 +122,14 @@ As a result of your participation in the discussion space;
 
 And hopefully, during the discussion you are able to see errors in your work or a better way to explain your findings. If so, please make changes to your report and embed the modified report (***tip***: *make a copy of the initial report, otherwise the initial slide show will change and you will lose your original report*) under your initial post. We will be developing a portfolio that includes all of your works, so being diligent with an attitude towards continuous improvement of your reports will be of immense value when you work to clean up your portfolio for final submission at the conclusion of the semester.
 
+### Team Members Assessment of You
+About every 2-3 weeks, I will ask your team to assess (on a three point scale) your role as teammate in three categories;
+- attendance
+- participation
+- supportive
+An additional 1 point can earned for outstanding recognition.  I will exclude the low and high rating and take an average of the remaining assessments.
+[Example of Assessment Form](https://forms.gle/d1e7Mpk1v9NVPsJt8)
+
 
 ### Quizzes
 We will have 4 quizzes to test you on the skills being developed in the ISLE modules.  You will complete these outside of class on a given day.  (I will release the quiz in the morning and it will be due by the following morning).  The quiz will mainly be short answer and should take no longer than 1 hour.
@@ -143,13 +151,14 @@ The final exam will consist of three components;
 
 | Component          | Number of | Point per  | Total Points | Proportion of Grade |
 |--------------------|-----------|------------|-------------|---------------------|
-| ISLE Modules       | 7        | 12         | 84        | 23%                 |
-| Group Discussions  | 7        | 10         | 70        | 19%                 |
-| Quizzes            | 4        | 20         | 80       |  22%
-| Projects           | 2         | 30         | 60          | 16.5%               |
-| Article Presentation |  1      | 20         | 20          |  5.5%                  |
-| Final Exam         | 1         | 50         | 50          | 13.7%               |
+| ISLE Modules       | 7        | 12         | 84        | 21%                 |
+| Group Discussions  | 7        | 10         | 70        | 17.5%                 |
+| Team Member Assessment |   4   |   9       |   36      |   9%                    |
+| Quizzes            | 4        | 20         | 80       |  20%
+| Projects           | 2         | 30         | 60          | 15%               |
+| Article Presentation |  1      | 20         | 20          |  5%                  |
+| Final Exam         | 1         | 50         | 50          | 12.5%               |
 |                    |           |            |             |                     |
-| Totals             |  22       |            |  364        | 100%                |
+| Totals             |  22       |            |  400        | 100%                |
 
 

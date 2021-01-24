@@ -13,7 +13,18 @@ weight: 12
 ---
 
 ## Attendance
-Attending our virtual classes via Zoom is the greatest predictor of success in college.  I strongly encourage you to do everything possible to attend every class.  I will be recording each virtual session, but much of the in-class time will not be recorded since it is taking place in breakout rooms.  I see our classtime as an opportunity for interaction with your classmates and your instructor.  I will be using engaging activities during the virtual sessions to introduce ideas and allow you to establish a starting point for learning.  
+Attending our virtual classes via Zoom is the greatest predictor of success in college.  I strongly encourage you to do everything possible to attend every class.  I will be recording each virtual session, but much of the in-class time will not be recorded since it is taking place in breakout rooms.  I see our classtime as an opportunity for interaction with your classmates and your instructor.  I will make efforts to use engaging activities during the virtual sessions to introduce ideas and allow you to establish a starting point for learning.  
+
+## Participation
+Being that we are remote, it is extremely difficult for me as your instructor to be able to "see" how you're doing during class.  We all need to put in our best effort to contribute to class by;
+- volunteering to share screen to talk through a data analysis
+- participating in polls
+- speaking up if you are having difficulties following or simply have a question
+- staying present during the entire class (treat ConferZoom as if you were actually sitting in class.)
+
+We will be hopefully using breakout rooms often this semester. Based on the task, I will mix things up (i.e., one on one breakouts for think-pair-share, entire team of 8 breakouts, subteam breakouts of 4 members, random breakout groups of 4).  
+
+The successful use of breakouts lies in the students' resposiblity (and the professor to make sure the use of breakouts is appropiate and timely).  Therefore, I am just sincerely asking all of you to take this class seriously and bring yourself fully engaged in the class process and be involved to the best of your ability.  Actually, I think we will all need to push ourselves and overcome our anxiety to be more vocal, since the remote environment can strongly pull us into our own little world where we just become observers.  Fight the gravity of observance, instead **fly above** take an active role in our class.
 
 ## Question for Professors
 Please use Campuswire for all communication. I am attempting to make this course an **email-free** course.
