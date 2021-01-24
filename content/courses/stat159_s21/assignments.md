@@ -126,8 +126,10 @@ And hopefully, during the discussion you are able to see errors in your work or 
 About every 2-3 weeks, I will ask your team to assess (on a three point scale) your role as teammate in three categories;
 - attendance
 - participation
-- supportive
-An additional 1 point can earned for outstanding recognition.  I will exclude the low and high rating and take an average of the remaining assessments.
+- supportive  
+
+An additional 1 point can earned for outstanding recognition.  I will exclude the low and high rating and take an average of the remaining assessments.  
+
 [Example of Assessment Form](https://forms.gle/d1e7Mpk1v9NVPsJt8)
 
 
@@ -160,5 +162,25 @@ The final exam will consist of three components;
 | Final Exam         | 1         | 50         | 50          | 12.5%               |
 |                    |           |            |             |                     |
 | Totals             |  22       |            |  400        | 100%                |
+
+
+## Extra Credit Potential 
+In an effort to encourage and rewards attendance and participation, I am trying something new this semester.  I will be tracking attendance and participation in whole class discussion.  You will gain 2 pt for each class session you attend.  You will gain 10 pt for each time you volunteer to share your screen.  You will gain 4 point for each question asked.  You will also gain 4 point for each question answered.  Can I keep track of this without going insane?  I don't know, but I'll give it a try and see.  
+
+How does this translate into extra credit.  Well, let's try this.
+- We have 29 classes for a possible 58 pts (I allow for 4 misses so - 50 points)
+- You should be able to share your screen at least twice for 20 points.
+- Hopefully, you can ask at least 5 questions and answer at least 5 questions - for 40 points.
+
+Therefore, you should be able to obtain 110 points.  I will;
+- subtract 100 from your points
+- multiple remaining points by 0.1 and add that % at end of the semester boost to your grade.
+
+For example, let's say you earn 130 points.  
+- 130-100 = 30 pts
+- 30*0.1 = 3% extra credit
+
+Let's see if this is manageable, if not I'll try to find an easier way to reward you for your participation.
+
 
 
