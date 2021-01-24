@@ -38,4 +38,20 @@ Within each week's module, there are readings, videos and slides to view prior t
 Beyond just viewing the preparatory materials, you should begin **formulating and writing down questions** when you encounter something that you are finding difficult or confusing.  By indentifying challenging materials prior to class, **you are priming your nervous system** to be more ready to learn.  Since your question are written down, during class you can refer to them and more easily ask them.
 
 ## Make Connections with your Classmates
-On the first day of class, I will be putting us into teams of 8.  We will be in these teams for the entire semester.  You will be supported and provided in-class time to work on and discuss assignments and projects with your team.   Having a group of classmates that you know and can freely reach out to will make class more enjoyable and you won't feel so on your own.  **I stronglt suggest that you think of your team as your support network.**  I will support you in setting up virtual meetups through Canvas's Conferences (or a technological choose of your own) to work on and discuss the modules and projects.  Also, at times we will utilize randomized breakout rooms so you can meet and work with others beside just your team.
+On the first day of class, I will be putting us into teams of 8.  We will be in these teams for the entire semester.  You will be supported and provided in-class time to work on and discuss assignments and projects with your team.   Having a group of classmates that you know and can freely reach out to will make class more enjoyable and you won't feel so on your own.  **I strongly suggest that you think of your team as your support network.**  I will support you in setting up virtual meetups through Canvas's Conferences (or a technological choose of your own) to work on and discuss the modules and projects.  Also, at times we will utilize randomized breakout rooms so you can meet and work with others beside just your team.
+
+### Use of Team Roles 
+We will try to use roles for team members.  These are "loose" roles - try to play the part, but also just try to work together.  If the roles work well, then great.  If they are causing issues or can be improved, please let's discuss strategies to improve the team structure.  Here are the initial roles;
+
+#### Group Roles	Description
+
+| Group Roles | Description                                                                                                                  |
+|-------------|------------------------------------------------------------------------------------------------------------------------------|
+| Facilitator | Moderates team discussion, keeps the group on task, and distributes work.                                                    |
+| Recorder    | Takes notes summarizing team discussions and decisions, and keeps all necessary records.                                     |
+| Reporter    | Serves as group spokesperson to the class or instructor, summarizing the group’s activities and/or conclusions.              |
+| Timekeeper  | Keeps the group aware of time constraints and deadlines and makes sure meetings start on time.                               |
+| Harmonizer  | Strives to create a harmonious and positive team atmosphere and reach consensus (while allowing a full expression of ideas.) |
+| Innovator   | Encourages imagination and contributes new and alternative perspectives and ideas.                                           |
+| Checker     | Checks to make sure all group members understand the concepts and the group’s conclusions.                                   |
+| Wildcard    | Assumes the role of any missing member and fills in wherever needed.                                                         |
