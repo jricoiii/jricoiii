@@ -12,7 +12,7 @@ type: docs
 weight: 8
 ---
 
-Your first self-directed project will be an analysis of your own choosing using the 2018 American Community Survey Data Explorer.  
+Your first self-directed project will be an analysis of your own choosing using the 2019 American Community Survey Data Explorer.  
 
 ## Big Idea
 Your goal is to tell a story about our community with data.  Strive to develop a theme, goal or guiding idea, this will give your story context, meaning and purpose.  Imagine you are communicating your results to the local newspaper or a community blog, or to local politicians or community leaders.  
