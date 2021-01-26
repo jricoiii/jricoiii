@@ -25,9 +25,9 @@ weight: 14
 #### Welcome to Class
 
 #### Course Structure
-- Experience Goals - What sort of class do we want?
 - Weekly ISLE Lesson Overview
-- Hybrid Structure - What to expect? How to Succeed?
+- Campuswire 
+- Teams
 
 #### First Group Breakout
 - Introduce yourself
