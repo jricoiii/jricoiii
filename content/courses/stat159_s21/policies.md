@@ -24,7 +24,7 @@ Being that we are remote, it is extremely difficult for me as your instructor to
 
 We will be hopefully using breakout rooms often this semester. Based on the task, I will mix things up (i.e., one on one breakouts for think-pair-share, entire team of 8 breakouts, subteam breakouts of 4 members, random breakout groups of 4).  
 
-The successful use of breakouts lies in the students' resposiblity (and the professor to make sure the use of breakouts is appropiate and timely).  Therefore, I am just sincerely asking all of you to take this class seriously and bring yourself fully engaged in the class process and be involved to the best of your ability.  Actually, I think we will all need to push ourselves and overcome our anxiety to be more vocal, since the remote environment can strongly pull us into our own little world where we just become observers.  Fight the gravity of observance, instead **fly above** take an active role in our class.
+The successful use of breakouts lies in the students' resposiblity (and the professor to make sure the use of breakouts is appropiate and timely).  Therefore, I am just sincerely asking all of you to take this class seriously and bring yourself fully engaged in the class process and be involved to the best of your ability.  Actually, I think we will all need to push ourselves and overcome our anxiety to be more vocal, since the remote environment can strongly pull us into our own little world where we just become observers.  Please fight the gravity of observance, instead **fly above** take an active role in our class.
 
 ## Question for Professors
 Please use Campuswire for all communication. I am attempting to make this course an **email-free** course.
@@ -37,16 +37,16 @@ You've probably heard of *office hours*, I decided this is an outdated term (esp
 
 | Day of Week  | Time Available                 |
 |--------------|--------------------------------|
-| Monday       | 12:45 - 2:00   |
-| Tuesday      | 12:45 - 2:00                 |
-| Wednesday    | 12:45 - 2:00   |
-| Thursday     | 12:45 - 2:00                   |
+| Monday       | 1:00 - 2:15   |
+| Tuesday      | 1:00 - 2:15               |
+| Wednesday    |  1:00 - 2:15   |
+| Thursday     | 1:00 - 2:15                  |
 
 ## Technology
 We will be meeting online in Canvas through Zoom. You will need a reliable internet connection and a device.  I recommend having an two monitors (i.e., connect your laptop to an external monitor) for the virtual classes, one monitor to observe the class and one monitor to use for your own work.  **If you need technology to be successful in a remote learning environment, you may submit an [Emergency Technology Equipment Request form](https://ohlone.formstack.com/forms/emergency_technology_equipment_request_form).  You can request a webcam, a wifi hotspot, or chromebook/laptop.  I am happy to assist you if needed.**
 
 ## Webcam
-Having a webcam will allow for much better interaction between your classmates and instructors.  When I can not see who I am teaching, the experience is pretty draining and not enjoyable.  I will not require everyone to have their camera on, but I would like each of us to think about turning **ON** their webcam and see what it can do to **improve your learning experience**.  I understand that during class (especialy when the teacher is just talking), having the camera on all that time is a somewhat uncomfortable, but realize that I am  
+Having a webcam will allow for much better interaction between your classmates and instructors.  When I can not see who I am teaching, the experience is pretty draining and not enjoyable.  I will not require everyone to have their camera on, but I would like each of us to think about turning **ON** their webcam and see what it can do to **improve your learning experience**.  I understand that during class (especialy when the teacher is just talking), having the camera on all that time is a somewhat uncomfortable, but please realize that allowing me to see you improves my experience teaching and *possibly can improve the overall quality of the class*. 
 
 
 ## Accomodations
