@@ -23,16 +23,16 @@ I am breaking our semester into 4 phases
 |-------|--------|--------------------------------------------------------------|:----------------:|
 | 1     | Jan18  | 01 Intro to Statistics                                       |   Check Canvas    |
 | 2     | Feb1   | 02 Intro to Data                                             |   Check Canvas   |
-| 3     | Feb8  | 03 Relationships betweens Categorical Variables              |   Check Canvas   |
+| 3     | Feb8  | 03 Introduction to Numerical Variables               |   Check Canvas   |
 | 4     | Feb17 | Catch Up Time - No New Assignments  (No Class Feb 15 or 16) |                  |
 
 **1st Quiz will be during Week 3 and will cover modules 1 and 2.**
 
-### Phase Two: Numerical Variables and 1st Project  
+### Phase Two: Relationships and 1st Project  
 
 | Week  | Start  | Assignment                                                   |     Due Dates  |
 |-------|--------|--------------------------------------------------------------|:----------------:|
-| 5     | Feb22  | 04 Introduction to Numerical Variables                       |   Check Canvas   |
+| 5     | Feb22  | 04 Relationships betweens Categorical Variables                      |   Check Canvas   |
 | 6     | Mar1   | 05 Relationships between Numerical and Categorical Variables |   Check Canvas   |
 | 7     | Mar8   | First Project Consultations and In-Class Project Snapshots   |      |
 | 8     | Mar15  | First Project Appointments and Fine-Tuning                   |      |
