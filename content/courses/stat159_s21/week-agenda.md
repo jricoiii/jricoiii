@@ -36,6 +36,7 @@ weight: 14
 - Goals
 - Any Questions from Page 2?  Page 3?
 - Look ahead at Discussion Prompts...
+- Google Sheets / Slide Support?
 
 #### Test our skills in a group settings using Class Survey
 - in our breakouts we will go through a set of questions to test your new abilities.
