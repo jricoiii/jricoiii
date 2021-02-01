@@ -12,7 +12,33 @@ type: docs
 weight: 14
 ---
 
+## Week 2 Goals
+- Support Team Discussion for 01-DISC
+- Introduce ACS data
+- Introduce ISLE Data Explorer
+- Learn New Data Move (Filter, Collapse, Bin)
 
+### Course Agenda - Day 1
+
+#### 01-ISLE Question Review
+- Anything of interest/confusion?
+- Closer Look at *Why do researchers use random assignment of the treatment and control to the participants (observational units) in the experiment?*
+
+#### Group Discussion Time
+- Refine observations (Q1)
+- What is Random Assignment?  Was it used in this study?  
+- Is Random Assignment important for this study?
+- Write on Final Conclusions
+- Is this descriptive or inferential statistics?
+- What's a good graphic/table to reinforce your written conclusion?
+
+#### Introduce Module Two - Categorical Variables
+- Goals
+- Any Questions from Page 2?  Page 3?
+- Look ahead at Discussion Prompts...
+
+#### Test our skills in a group settings using Class Survey
+- in our breakouts we will go through a set of questions to test your new abilities.
 
 
 ## Week 1 Goals
