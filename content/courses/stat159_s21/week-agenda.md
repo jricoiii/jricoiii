@@ -23,12 +23,19 @@ weight: 14
 #### 01-ISLE Question Review
 - Anything of interest/confusion?
 - Closer Look at *Why do researchers use random assignment of the treatment and control to the participants (observational units) in the experiment?*
+- Two Main themes emerged, *eliminating bias*, and *create similar groups*, what does this mean...elaborate?
+- Why is random assignment used?  Can you provide an example?
+
+#### Quick Notes on Random Assignment vs Random Sampling
+- Why Used?  Implications on Inference.
+- Where used?
+- 
 
 #### Group Discussion Time
+- Write on Final Conclusions
 - Refine observations (Q1)
 - What is Random Assignment?  Was it used in this study?  
 - Is Random Assignment important for this study?
-- Write on Final Conclusions
 - Is this descriptive or inferential statistics?
 - What's a good graphic/table to reinforce your written conclusion?
 
