@@ -12,6 +12,19 @@ type: docs
 weight: 14
 ---
 
+## Week 3 Goals
+- Support Team work on 02-DISC
+- Address lingering issues on 02-ISLE skills?
+- Introduce numerical variables and techniques to describe them
+
+## Agenda - Week 3 - Day 1
+- Look ahead - Numerical Variables
+- Team Discussion Time 
+- Look at 03-ISLE Learning Goals
+- Look at 03-DISC and Example Analysis
+- Conceptual look histograms, quartiles, and mean/median/mode
+
+
 ## Week 2 Goals
 - Support Team Discussion for 01-DISC
 - Introduce ACS data
