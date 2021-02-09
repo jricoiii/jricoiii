@@ -23,6 +23,9 @@ weight: 14
 - Look at 03-ISLE Learning Goals
 - Look at 03-DISC and Example Analysis
 - Conceptual look histograms, quartiles, and mean/median/mode
+- Sleep Data - Discuss Shape, Center and Spread with Group
+- Super Bowl Data - Discuss Shape< Center and Spread with Group
+- Sample Data to play with (mean vs median - robust statistics - intro standard deviation)
 
 
 ## Week 2 Goals
