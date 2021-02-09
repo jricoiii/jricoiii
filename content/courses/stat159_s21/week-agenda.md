@@ -17,7 +17,7 @@ weight: 14
 - Address lingering issues on 02-ISLE skills?
 - Introduce numerical variables and techniques to describe them
 
-## Agenda - Week 3 - Day 1
+### Agenda - Week 3 - Day 1
 - Look ahead - Numerical Variables
 - Team Discussion Time 
 - Look at 03-ISLE Learning Goals
