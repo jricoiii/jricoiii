@@ -27,6 +27,14 @@ weight: 14
 - Super Bowl Data - Discuss Shape< Center and Spread with Group
 - Sample Data to play with (mean vs median - robust statistics - intro standard deviation)
 
+### Agenda - Week 3 - Day 2
+- Deeper dive into Module 3
+- Focus on Describing a Numerical Variable
+- Shape, Spread/Variation, Center and Oddities
+- Examples of Sleep Time and Commute Time
+- Walk-through of ISLE toolbox skills for 03-DISC
+- First Quiz and Practice First Quiz
+
 
 ## Week 2 Goals
 - Support Team Discussion for 01-DISC
