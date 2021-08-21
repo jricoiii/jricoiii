@@ -12,7 +12,10 @@ type: docs
 weight: 6
 ---
 
-I am breaking our semester into 4 phases 
+I am breaking our semester into 3 phases;
+- Module 1: Observational Studies
+- Module 2: Experimental Studies
+- Module 3: Big Data
 
 
 ## Calendar

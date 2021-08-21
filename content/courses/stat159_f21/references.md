@@ -4,7 +4,7 @@ draft: false
 linktitle: Learning Resources
 menu:
   example:
-    parent: Math 159 Spring 2021
+    parent: Math 159 Fall 2021
     weight: 3
 title: Learning Resources
 toc: true
