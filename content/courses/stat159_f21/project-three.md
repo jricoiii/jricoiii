@@ -5,11 +5,11 @@ linktitle: Project III - Big Data Study
 menu:
   example:
     parent: Math 159 Fall 2021
-    weight: 8
+    weight: 9
 title: Project III - Big Data Study 
 toc: true
 type: docs
-weight: 8
+weight: 9
 ---
 
 Your final self-directed project will be an analysis of your own choosing using the 2019 American Community Survey Data Explorer.  
