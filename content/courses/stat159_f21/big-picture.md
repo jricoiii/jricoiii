@@ -4,7 +4,7 @@ draft: false
 linktitle: Big Picture Goals
 menu:
   example:
-    parent: Math 159 Spring 2021
+    parent: Math 159 Fall 2021
     weight: 1
 title: Big Picture Goals
 toc: true

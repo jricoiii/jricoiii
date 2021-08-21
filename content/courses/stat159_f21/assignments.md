@@ -4,7 +4,7 @@ draft: false
 linktitle: Assignments
 menu:
   example:
-    parent: Math 159 Spring 2021
+    parent: Math 159 Fall 2021
     weight: 6
 title: Assignments
 toc: true

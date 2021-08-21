@@ -4,7 +4,7 @@ draft: false
 linktitle: Quality of Failure
 menu:
   example:
-    parent: Math 159 Spring 2021
+    parent: Math 159 Fall 2021
     weight: 5
 title: Quality of Failure
 toc: true

@@ -4,7 +4,7 @@ draft: false
 linktitle: Project I - Observational Study
 menu:
   example:
-    parent: Math 159 Spring 2021
+    parent: Math 159 Fall 2021
     weight: 8
 title: Project I - Observational Study 
 toc: true

@@ -4,7 +4,7 @@ draft: false
 linktitle: Learning Objectives
 menu:
   example:
-    parent: Math 159 Spring 2021
+    parent: Math 159 Fall 2021
     weight: 4
 title: Learning Objectives
 toc: true
