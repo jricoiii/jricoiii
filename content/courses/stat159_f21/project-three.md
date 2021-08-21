@@ -1,24 +1,24 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
 draft: false
-linktitle: Project I - Observational Study
+linktitle: Project III - Big Data Study
 menu:
   example:
-    parent: Math 159 Spring 2021
+    parent: Math 159 Fall 2021
     weight: 8
-title: Project I - Observational Study 
+title: Project III - Big Data Study 
 toc: true
 type: docs
 weight: 8
 ---
 
-Your first self-directed project will be an analysis of your own choosing using data that you produce on your own from either personal observations or surveys.
+Your final self-directed project will be an analysis of your own choosing using the 2019 American Community Survey Data Explorer.  
 
 ## Big Idea
-Your goal is to tell a story using observational data.  Strive to develop a theme, goal or guiding idea, this will give your story context, meaning and purpose.  Imagine you are communicating your results to the local newspaper or a community blog, or to local politicians or community leaders.  
+Your goal is to tell a story about our community with data.  Strive to develop a theme, goal or guiding idea, this will give your story context, meaning and purpose.  Imagine you are communicating your results to the local newspaper or a community blog, or to local politicians or community leaders.  
 
-## Developing your Topic
-
+## Developing your topics
+In the first six weeks, you have already conducted mini-analyses of the ACS in the first five modules.  For this project you are given the freedom to explore the data.  You might have already started to have additional questions, if so then use this opportunity to go further into the data.  (Maybe go back into yout previous reports and see what piques your interest?)  Or start fresh, look at your variables - start exploring.  The basic premise of the assignment is to use the skills that you have developed in the first four skill developments to do authentic statistical analysis.
 
 ## Minimum Requirement
 Ultilize a slide show medium.  Select two primary variables of interest (response variables).  Your primary variables need to be at least one numerical variable and one categorical variable.   For each response variable you should identify at least 2 explanatory variable (you might find it beneficial to combine levels or filter your explanatory variables).  You will probably develop 2 separate analyses (one for each of your response variables).  Your results need to include tables, graphics and discussion.  I would like everyone to try creating tables and graphics with multiple group by (explanatory) variables.
