@@ -14,8 +14,35 @@ weight: 3
 
 The basic statistical concepts and methods that we cover in the course have not changed  much in over 80 years. (Yes, this pre-dates modern computers. In fact much of modern statistics was developed in the later 1800's and early 1900's).  There is an abundance of learning materials covering introductory statistics (YouTube, websites, textbooks).  I recommend that you be proactive in seeking out information (Googling is a good strategy, if you know how to use the right key words).  I will be providing websites, YouTube videos, and open access (free) textbook as we progress through our learning modules.  Here are some places to start your journey into learning statistics.
 
+
+## Recommended Reference Statistics Book
+**OpenIntro Introduction to Modern Statistics** - published by the [OpenIntro](https://www.openintro.org/) team 
+- Their mission is to make educational products that are free, transparent, and lower barriers to education. They also provide supporting resources, such as slides, videos, and more.)  
+
+**This will be our primary resource**.  
+
+The textbook (PDF) can be downloaded for free or contribution (**you can skip the optional contribution, by setting the price to $0**) at;  
+[leanpub.com/imstat](https://leanpub.com/imstat)  
+
+If you want a personal hard copy, you can purchase at Amazon for $20 at this [link](https://www.openintro.org/go?id=ims1_bw_pb&referrer=/book/ims/online)
+
+It is also available to read online for free through the internet at [https://openintro-ims.netlify.app/](https://openintro-ims.netlify.app/)
+
+
+## Additional High Quality Statistics Learning Online Resource
+Another free online resource that we will using is University of Florida's **Biostatistics Open Learning Textbook** available [here](https://bolt.mph.ufl.edu/6050-6052/).
+
+
+## Communication with Each Other and Professor
+I have set up a course site at **Campuswire**, which will be our home base for communication.
+- Sign up through this class specific link at [Campuswire](https://campuswire.com/p/G5E21B7D9)
+- I think you first have to register for an account with Campuswire, and then verify your account by obtaining a verification code by checking your Ohlone email.
+- After your account is verified, then you need to enter the Class Code **4624** to finally enter the class.
+- [Campuswire's Instructions for Joining a Class](https://intercom.help/campuswireHQ/en/articles/2695271-how-to-join-a-class-via-the-class-link)
+- I recommend downloading the app to your phone and setting up notification preferences so you will be notifying of new posts or questions.
+
 ## Integrated Statistic Learning Environment
-Our primary learning space will be an online space called ISLE.  ISLE was developed by Carnegie Mellon University's Statistics and Data Science department with the goal of having an accessible interface for all to be data scientists.
+Our primary statistical tool will be an online space called ISLE (I call it [isle](https://www.vocabulary.com/dictionary/isle) - as in a small Island).  ISLE was developed by Carnegie Mellon University's Statistics and Data Science department with the goal of having an accessible interface for all to be data scientists.  **NOTE - I have not upload any material to ISLE yet - so there is no immediate need to sign up for ISLE, I'll let you know when we will be using this site**
 
 Follow these steps to obtain access to ISLE.
 1. You will need to sign up for ISLE.
@@ -23,31 +50,15 @@ Follow these steps to obtain access to ISLE.
 2. Click: **Go to Login page** and login with your email and password
 3. Click on Menu. (Three Horizontal Bars in upper left corner to left of Open Your Courses)
 4. Enroll will appear, click on it.
-6. Then select your section (*you might not know the section, but WebAdvisor has that section detail*)
+6. Then select your section. It will be of the form F21-MATH-159-**SEC#** (*you might not know the section, but WebAdvisor has that section detail*)
 7. If your section doesn't show up, you wil need to log out and log back in (this should refresh the list)
 8. You're in! 
 9. Bookmark the [ISLE Website](https://isle.kymetis.com/dashboard)
 
-## Recommended Reference Statistics Book
-**OpenIntro Statistics** - published by the [OpenIntro](https://www.openintro.org/) team 
-- Their mission is to make educational products that are free, transparent, and lower barriers to education. They also provide supporting resources, such as slides, videos, and more.)  
-
-**This will be our primary resource**.  
-
-The textbook (PDF) can be downloaded for free or contribution (**you can skip the optional contribution, by setting the price to $0**) at;  
-[leanpub.com/openintro-statistics](https://leanpub.com/openintro-statistics)  
-
-## Communication with Each Other and Professor
-I have set up a course site at **Campuswire**, which will be our home base for communication.
-- Sign up through this class specific link at [Campuswire](https://campuswire.com/p/GF4A524CF)
-- I think you first have to register for an account with Campuswire, and then verify your account by obtaining a verification code by checking your Ohlone email.
-- After your account is verified, then you need to enter the Class Code **7222** to finally enter the class.
-- [Campuswire's Instructions for Joining a Class](https://intercom.help/campuswireHQ/en/articles/2695271-how-to-join-a-class-via-the-class-link)
-
-
 ## Interactive Statistical Applets
 The web has enabled a new set of resources to learn statistics through interaction called applets.    
 - [ArtofStat Web Apps](http://www.artofstat.com/webapps.html)
+- [Dana Center Web Apps](https://www.utdanacenter.org/our-work/higher-education/curricular-resources-higher-education/dcmp-data-analysis-tools)
 - [StatKey](http://www.lock5stat.com/StatKey/)
 - [Rossman/Chance Applet Collection](http://www.rossmanchance.com/applets/)
 - [StatPREP Little Apps](https://ecstatic-mclean-a0b3e0.netlify.app/categories/little-app/)
@@ -75,4 +86,4 @@ If you have access to an actual statistics textbook, you might find that quite u
 - [ModernDive - Statistical Inference via Data Science](https://moderndive.com/index.html)
 
 ## Ohlone Academic Calendar
-[Calendar from Ohlone College Website](ohlone.edu/sites/default/files/groups/Curriculum_and_Scheduling/Curriculum_Committee/documents/2020-2021_academic_calendar_-_official.pdf)
+[2021-22 Academic Calendar from Ohlone College Website](https://www.ohlone.edu/sites/default/files/groups/Curriculum_and_Scheduling/Documents/2021-2022_academic_calendar_-_official.pdf)
