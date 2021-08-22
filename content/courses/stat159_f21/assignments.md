@@ -74,20 +74,19 @@ An additional 1 point can earned for outstanding recognition.  I will exclude th
 ## Readings
 Each reading will be accompanied by a group discussion.  You are to post your answers to the reading questions and then later as a group finalize your answer via discussion.  You will receive 5 pts for initial post of your answers and then your group can get an additional 5 pts if the discussion was productive and your final answers show quality and thought. 
 
-### Quizzes
+## Quizzes
 We will have six quizzes (2 for each module) throughout the semester to check for understanding.  Quizzes will alternate from group to individual formats.  They will be short (1-2 questions).  Some will be in-class, others will be completed outside of class.  Each quiz will be worth 20 points.
 
 ## Prompts
 We will have prompts that I will assign to either your group or to you individually.  These prompts are sort of like quizzes, but they are not grading for accuracy and not worth as much points.  In these prompts I just want you to just be authentic and don't worry about your grade or being right or wrong, just work on developing your thought and understanding.  In addition, these prompts will serve as good self-assessments.  I anticipate about 10 prompts during the term, but this number is in flux.  Each prompt will be worth 10 points.
 
-### Projects
+## Projects
 You will have six project.  Three are in your group and are worth 30 points, while the three individual ones are worth 50 points.  *Grading criteria for the projects is still being developed. Details to be shared as soon as possible.*
 
 
 
-### Final Exam
+## Final Exam
 The final exam will consist of two components; 
-- final project 
 - reflection on earlier projects
 - quality of failure essay
 
