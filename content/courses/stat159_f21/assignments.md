@@ -25,7 +25,7 @@ I am breaking our semester into 3 phases;
 
 | Week  | Start  | Assignment                                                   |     Due Dates  |
 |-------|--------|--------------------------------------------------------------|:----------------:|
-| 1     | Jan18  | 01 Intro to Statistics                                       |   Check Canvas    |
+| 1     | Aug30  | Complete Intro Tasks                                      |      |
 | 2     | Feb1   | 02 Intro to Data                                             |   Check Canvas   |
 | 3     | Feb8  | 03 Introduction to Numerical Variables               |   Check Canvas   |
 | 4     | Feb17 | Catch Up Time - No New Assignments  (No Class Feb 15 or 16) |                  |

@@ -1,0 +1,17 @@
+---
+title: "A Story of my Health"
+output: html_document
+date: 08/21/2021
+---
+
+
+Health is aspect of our lives we probably have all taken for granted.
+I sure did, until I got sick. [Essay I wrote to my doctor in 2018](https://docs.google.com/document/d/18RWgmtpGmz-QMsuFU_RJruqd5Uxzg3n_A_lVNkP37Sc/edit?usp=sharing)
+
+
+When I first got my sickness diagnosed, I said to myself that 
+I am broken and I will always be broken.  I was very depressed. I was no longer the person I knew myself to be.  What am I trying to say?  I don't really know.  I guess I am just acknowledging that when you are not feeling well, living is tough and mental health is a serious struggle.  I went many years really struggling and I had no support from the health care industry.  
+
+My condition was Hashimoto's Disease, which is basically your thyroid gland stops working and producing the necessary hormones your body needs.  Eventually, I was able to convince a naturalpathic doctor to change my prescription to a hybrid hormone therapy of T3 and T4 (which no doctor at Kaiser would allow).  Surprise, this new prescription changed my life for the better.  I no longer am getting totally exhausted each day, my headaches have greatly diminished and my moments of insanity and anxiety became almost a thing of the past.
+
+I have also taken care with my diet.  Diet is a super challenging topic to understand with many different stances on how to best feed a person with Auto-immune diseases such as Hashimoto's.  I just try to eat my fruits and vegetables and avoid fatty foods.  It is still a work in progress, but I feel that diet is a huge lever in improving one's health.  Next, I hope to work on bringing back exercise and yoga into my life.  For this upcoming year (Fall 2021), I want to commit to morning yoga of hata yoga and some sort of meditation.  Hopefully, this will be my next step to restoring my health.
