@@ -22,7 +22,7 @@ Being that we are remote, it is extremely difficult for me as your instructor to
 - speaking up if you are having difficulties following or simply have a question
 - staying present during the entire class (treat ConferZoom as if you were actually sitting in class.)
 
-We will be hopefully using breakout rooms often this semester. Based on the task, I will mix things up (i.e., one on one breakouts for think-pair-share, entire team of 8 breakouts, subteam breakouts of 4 members, random breakout groups of 4).  
+We will be hopefully using breakout rooms often this semester. Based on the task, I will mix things up (i.e., one on one breakouts for think-pair-share, entire team of 5 breakouts, random breakout groups of 4).  
 
 The successful use of breakouts lies in the students' resposiblity (and the professor to make sure the use of breakouts is appropiate and timely).  Therefore, I am just sincerely asking all of you to take this class seriously and bring yourself fully engaged in the class process and be involved to the best of your ability.  Actually, I think we will all need to push ourselves and overcome our anxiety to be more vocal, since the remote environment can strongly pull us into our own little world where we just become observers.  Please fight the gravity of observance, instead **fly above** take an active role in our class.
 
@@ -33,14 +33,14 @@ Please use Campuswire for all communication. I am attempting to make this course
 I will be sending all communications out via Campuswire.  
 
 ## Student Hours
-You've probably heard of *office hours*, I decided this is an outdated term (especially during Covid), so instead I am calling the time that I have set aside each week to help you as my **Student Hours**.  My students hours are listed in the table below.  Just send me a Direct Message through Campuswire and we can chat and figure if we need to have either a Zoom or ISLE session.  If this time do not work for you, send me a message explaining your situation and we will figure out alternative time to meet.
+You've probably heard of *office hours*, I decided this is an outdated term (especially during Covid), so instead I am calling the time that I have set aside each week to help you as my **Student Hours**.  My students hours are listed in the table below.  Just send me a Direct Message through Campuswire and we can chat and figure if we need to have either a Zoom meeting or not. If this times do not work for you, send me a message explaining your situation and we will figure out alternative time to meet.
 
 | Day of Week  | Time Available                 |
 |--------------|--------------------------------|
-| Monday       | 1:00 - 2:15   |
-| Tuesday      | 1:00 - 2:15               |
-| Wednesday    |  1:00 - 2:15   |
-| Thursday     | 1:00 - 2:15                  |
+| Monday       | 12:30 - 2:00   |
+| Tuesday      | 2:15 - 3:15               |
+| Wednesday    |  12:30 - 2:00   |
+| Thursday     | 2:15  - 3:15                 |
 
 ## Technology
 We will be meeting online in Canvas through Zoom. You will need a reliable internet connection and a device.  I recommend having an two monitors (i.e., connect your laptop to an external monitor) for the virtual classes, one monitor to observe the class and one monitor to use for your own work.  **If you need technology to be successful in a remote learning environment, you may submit an [Emergency Technology Equipment Request form](https://ohlone.formstack.com/forms/emergency_technology_equipment_request_form).  You can request a webcam, a wifi hotspot, or chromebook/laptop.  I am happy to assist you if needed.**
@@ -88,8 +88,7 @@ The Math Learning Center will be online through Zoom.  I will update as details 
  
 
 ### Virtual Yoga
-- https://cccconfer.zoom.us/j/91807758967
-- Fridays @ 9am, Oct 2 - Nov 20
+
  
 
 ### Step Up!
