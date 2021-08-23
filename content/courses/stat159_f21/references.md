@@ -35,7 +35,7 @@ Another free online resource that we will using is University of Florida's **Bio
 
 ## Communication with Each Other and Professor
 I have set up a course site at **Campuswire**, which will be our home base for communication.
-- Sign up **using you @student.ohlone.edu email account** through this class specific link at [Campuswire](https://campuswire.com/p/G5E21B7D9)
+- Sign up using your **@student.ohlone.edu email account** through this class specific link at [Campuswire](https://campuswire.com/p/G5E21B7D9)
 - I think you first have to register for an account with Campuswire, and then verify your account by obtaining a verification code by checking your **Ohlone email**.
 - After your account is verified, then you need to enter the Class Code **4624** to finally enter the class.
 - [Campuswire's Instructions for Joining a Class](https://intercom.help/campuswireHQ/en/articles/2695271-how-to-join-a-class-via-the-class-link)
