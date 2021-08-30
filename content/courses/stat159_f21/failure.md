@@ -1,7 +1,7 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
 draft: false
-linktitle: Quality of Failure
+linktitle: Self-Evaluation
 menu:
   example:
     parent: Math 159 Fall 2021
@@ -12,6 +12,10 @@ type: docs
 weight: 5
 ---
 I want my student to feel free in my class to uniquely express their ideas and thoughts, and authentically make the effort to take risks as they learn. Fear of failure and judgement often makes this difficult for an individual to be feel free.  I ran across an approach another teacher has used to address this "fear of failure," when reading **How Humans Learn** during the Ohlone College 2020 Summer book read.  I liked the approach so much I decided to copy it and use it in our class.  
+
+I have thought about this assignment a little more, and I have now moved more towards asking you to write a Self-Evaluation.  I will be provided more guidance as the semester progresses.
+
+Here is a [link](http://fairhaven.wvu.edu/how-write-self-evaluation) on How to Write a Self-Evaluation.
 
 This has been taken from Patricia Taylor's (Briar Cliff University) Writing in the Digital Age 2018 [syllabus](http://www.patriciartaylor.com/syllabi.html). 
 
@@ -55,7 +59,7 @@ your failures? I hope this grade category will give you the freedom to try new
 things, and even to fail at them, and to come back having learned something
 from the experience. 
 
-**You will include the reflection in your final portfolio, and it will be graded as part of the portfolio.  It is 20% of your portfolio**
+**You will include the reflection in your final exam,**
 
 
 

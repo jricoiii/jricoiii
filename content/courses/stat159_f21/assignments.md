@@ -103,7 +103,7 @@ The final exam will consist of two components;
 | Individual Projects    |  3      | 50         | 150          |  24.4%                  |
 | Final Exam             | 1       | 50         | 50          | 8.1%               |
 |                        |         |            |             |                     |
-| Totals                 |  24     |            |  616        | 100%                |
+| Totals                 |  34     |            |  616        | 100%                |
 
 
 
