@@ -111,3 +111,17 @@ nav a { font-size: .95rem; }
 .post-list li { border-bottom: 1px solid var(--line); padding-block: .7rem; }
 .post-list h3 { font-size: 1.4rem; }
 .post-list p { margin: .45rem 0 0; }
+
+.catalog-search { margin: 1.4rem 0; }
+.catalog-search label { display: block; font-weight: 650; color: var(--ink); }
+.catalog-search input {
+  width: min(100%, 26rem);
+  margin-top: .4rem;
+  padding: .65rem;
+  border: 1px solid var(--ink);
+  border-radius: .25rem;
+  background: white;
+  font: inherit;
+}
+.catalog-search p { margin: .35rem 0 0; font-size: .95rem; }
+.catalog-topics { display: flex; flex-wrap: wrap; gap: .5rem 1.2rem; list-style: none; padding: 0; }
