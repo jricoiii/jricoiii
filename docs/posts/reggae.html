@@ -6,6 +6,13 @@
   <meta name="description" content="How I got into reggae, plus the radio shows I found along the way.">
   <title>Reggae | José Rico</title>
   <link rel="stylesheet" href="../style.css">
+  <style>
+    .post-body dl { display: grid; gap: .25rem; }
+    .post-body dt { margin-top: .8rem; }
+    .post-body dd { margin-left: 0; }
+    .post-body details { margin-top: 1.5rem; }
+    .post-body summary { cursor: pointer; color: var(--ink); font-weight: 650; }
+  </style>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -17,13 +24,64 @@
     <article class="post-body">
       <p><a href="./">All posts</a></p>
       <h1>Reggae</h1>
+      <p><a href="#listen">Listen</a> · <a href="#radio">Radio schedule</a> · <a href="#concerts">Concert calendars</a> · <a href="#older-list">Older radio list</a></p>
+
+      <section aria-labelledby="listen">
+        <h2 id="listen">Put on some reggae</h2>
+        <p><a class="button" href="https://live365.com/station/Reggae-Town-Music-a34320">Play 24/7 reggae</a></p>
+        <p><strong>On demand.</strong> Pick a recent broadcast of <a href="https://kfjc.org/listen/program-info?hourOfWeek=159&amp;programId=34">Jah’s Music on KFJC</a> or <a href="https://spinitron.com/KZSC/show/62431/Joy-in-the-Morning">Joy in the Morning with DJ Tiffany</a>.</p>
+      </section>
+
+      <section aria-labelledby="radio">
+        <h2 id="radio">Local community and college radio</h2>
+        <p>Times are Pacific. The live players carry the station’s regular programming outside the listed hours. Check the show links for schedule changes and available replays.</p>
+        <dl>
+          <dt><strong>Monday, noon–3 p.m. · Jah’s Music · KKUP 91.5 FM, Cupertino</strong></dt>
+          <dd><a href="https://player.streamguys.com/kkup/sgplayer3/player.php">Listen live</a> · <a href="https://spinitron.com/KKUP/show/9145/Jah-s-Music">Show and recent broadcasts</a></dd>
+
+          <dt><strong>Thursday, 9 a.m.–noon · Joy in the Morning · KZSC 88.1 FM, Santa Cruz</strong></dt>
+          <dd>DJ Tiffany. <a href="https://kzsc.org/listen/">Listen live</a> · <a href="https://spinitron.com/KZSC/show/62431/Joy-in-the-Morning">Show and recent broadcasts</a></dd>
+
+          <dt><strong>Friday, 6–9 p.m. · Solid Foundation · KKUP 91.5 FM, Cupertino</strong></dt>
+          <dd>Robert Rankin. <a href="https://player.streamguys.com/kkup/sgplayer3/player.php">Listen live</a> · <a href="https://spinitron.com/KKUP/show/9358/Solid-Foundation">Show and recent broadcasts</a></dd>
+
+          <dt><strong>Saturday, 9 a.m.–noon · Positive Vibrations · KEXP</strong></dt>
+          <dd>Kid Hops. <a href="https://www.kexp.org/listen/">Listen live</a> · <a href="https://www.kexp.org/archive/">Streaming archive</a></dd>
+
+          <dt><strong>Saturday, 4–7 p.m. · The Saturday Afternoon Reggae Show · KPOO 89.5 FM, San Francisco</strong></dt>
+          <dd>Lebaron Lord King. <a href="https://kpoo.com/listen">Listen live</a> · <a href="https://kpoo.com/program-guide">Station schedule</a></dd>
+
+          <dt><strong>Saturday, 10 p.m.–midnight · Santa Cruz Reggae Radio · KSQD, Santa Cruz</strong></dt>
+          <dd>DJ Spleece. <a href="https://ksqd.org/listen/">Listen live</a> · <a href="https://spinitron.com/KSQD/show/261277/Santa-Cruz-Reggae-Radio">Show and recent broadcasts</a></dd>
+
+          <dt><strong>Sunday, 3–7 p.m. · Jah’s Music · KFJC 89.7 FM, Los Altos Hills</strong></dt>
+          <dd>Spliff Skankin. The show lists a reggae event calendar around 5 p.m. <a href="https://kfjc.org/listen/">Listen live</a> · <a href="https://kfjc.org/listen/program-info?hourOfWeek=159&amp;programId=34">Show and replays</a></dd>
+        </dl>
+        <p>Farther north, try <a href="https://spinitron.com/KMUD/show/108465/Rankin-Reggae-Rotation">Rankin’ Reggae Rotation on KMUD</a> in Humboldt County. To explore other independent stations closer to home, browse the <a href="https://radiocrush.org/">Bay Area Independent Radio Guide</a>.</p>
+      </section>
+
+      <section aria-labelledby="concerts">
+        <h2 id="concerts">Find a show in Northern California</h2>
+        <ul>
+          <li><a href="https://reggaetownmusic.com/events/">Reggae Town Music</a> for Bay Area concerts, festivals, and DJ nights.</li>
+          <li>Reggae Calendar for <a href="https://reggaecalendar.com/shows/san-francisco">the Bay Area</a>, <a href="https://irie.org/shows/santa-cruz">Santa Cruz</a>, and <a href="https://irie.org/shows/sacramento">Sacramento</a>.</li>
+          <li><a href="https://santacruzreggae.com/">Santa Cruz Reggae</a> for Central Coast concerts, radio, and community events.</li>
+          <li><a href="https://www.ashkenaz.com/full-calendar">Ashkenaz’s calendar</a> for dance nights and concerts in Berkeley.</li>
+        </ul>
+      </section>
+
+      <section aria-labelledby="story">
+        <h2 id="story">How I got into reggae</h2>
 <figure>
 <img loading="lazy" src="../post-images/bob_2.jpg" alt="Bob Marley" />
 <figcaption aria-hidden="true">Bob Marley</figcaption>
 </figure>
 <p>Reggae music for me, started with the sweet music of Bob Marley and Wailers. It was a 6 album set by JAD of early Bob Marley and the Wailers 1967-72. A few years later, a friend invited me to see the Wailers play - and it was awesome!</p>
 <p>I still follow reggae music. Luckily, there are some great reggae DJs keeping radio “Live!” I also look forward to seeing live reggae, especially outdoor performances.</p>
-<p>Reggae on the Radio</p>
+      </section>
+      <details id="older-list">
+        <summary>My older radio list</summary>
+        <p>This is the earlier list I collected. Some links and broadcast times may have changed.</p>
 <p>Monday Afternoon 12-3pm PST<br />
 <a href="https://kkup.org/"><strong>Jah’s Music - KKUP - SF Bay Area</strong></a><br />
 <em>Classic roots &amp; contemporary Reggae in a conscious style.</em></p>
@@ -71,7 +129,8 @@ Reggae Showcase - FM 88.5 KSBR - Saddleback College, Mission Viejo, CA</p>
 <p>Sunday Evening 8-10pm<br />
 Reggae Revelation - DJ Short Change - KPSU - Portland State University, Portland, OR Reggae music in all forms. Running on the airwaves since 1999. Tune in to get a dose of roots and reality. Every episode is a mix of reggae classics, new releases and riddims, showcase of artists coming to town, and more.</p>
 <p><a href="http://www.ireggae.com/web.htm">Additional Link - Not Sure on Accuracy</a></p>
-      <p><a href="https://jricoiii.weebly.com/reggae-links.html">My original Reggae Links page</a></p>
+        <p><a href="https://jricoiii.weebly.com/reggae-links.html">My original Reggae Links page</a></p>
+      </details>
     </article>
   </main>
   <footer class="wrap footer">José Rico · Ohlone College</footer>
