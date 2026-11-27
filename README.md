@@ -8,3 +8,7 @@ The GitHub Pages homepage lives in **`docs/`**. It is plain HTML and CSS and nee
 - Preview locally with `python3 -m http.server --directory docs` and open `http://localhost:8000`. GitHub Pages publishes from the `master` branch’s `/docs` folder.
 
 The original Hugo site and posts are in `content/`, `static/`, and the original theme and configuration directories. Netlify continues to use the existing `netlify.toml`.
+
+## Posts
+
+The post index is in `docs/posts/index.html`, and each article has its own HTML file in `docs/posts/`. Put website photos in `docs/post-images/` and give them descriptive alternative text. The earlier Markdown source stays in `content/post/`.
