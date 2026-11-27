@@ -7,31 +7,164 @@
   <title>Reggae | José Rico</title>
   <link rel="stylesheet" href="../style.css">
   <style>
-    .post-body dl { display: grid; gap: .25rem; }
-    .post-body dt { margin-top: .8rem; }
-    .post-body dd { margin-left: 0; }
-    .post-body details { margin-top: 1.5rem; }
-    .post-body summary { cursor: pointer; color: var(--ink); font-weight: 650; }
+    .reggae-page {
+      --ink: #153c2b;
+      --text: #223129;
+      --paper: #fdf5dd;
+      --line: #d5c9a4;
+      --accent: #a52732;
+      --reggae-gold: #ffce53;
+      --reggae-red: #b82b37;
+      --reggae-green: #2d8854;
+      background: linear-gradient(180deg, #f5e4ad, var(--paper) 43rem);
+    }
+    .reggae-page .post-page { padding-top: clamp(1.25rem, 4vw, 2.75rem); }
+    .reggae-hero {
+      color: var(--paper);
+      background: var(--ink);
+      border-radius: .5rem;
+      overflow: hidden;
+    }
+    .reggae-hero-inner {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, .8fr);
+      align-items: center;
+      gap: clamp(1rem, 4vw, 3.5rem);
+      padding: clamp(1.25rem, 5vw, 3rem);
+    }
+    .reggae-hero h1 {
+      color: var(--reggae-gold);
+      font-size: clamp(3.5rem, 11vw, 7.6rem);
+      margin: .45rem 0 .8rem;
+    }
+    .reggae-hero a { color: inherit; }
+    .reggae-hero .button {
+      background: var(--reggae-gold);
+      color: #19291e;
+      text-decoration-thickness: 1px;
+    }
+    .reggae-hero a:focus-visible { outline-color: var(--reggae-gold); }
+    .reggae-hero .reggae-replays { margin-bottom: 0; max-width: 38ch; }
+    .reggae-hero::after {
+      content: "";
+      display: block;
+      height: .65rem;
+      background: linear-gradient(90deg, var(--reggae-red) 33.333%, var(--reggae-gold) 33.333% 66.666%, var(--reggae-green) 66.666%);
+    }
+    .speaker-stack {
+      display: grid;
+      grid-template-columns: 1fr 1.18fr 1fr;
+      align-items: end;
+      gap: 3.5%;
+      width: 100%;
+      max-width: 23rem;
+      margin-inline: auto;
+      padding-block: .5rem;
+      border-bottom: .25rem solid var(--reggae-gold);
+    }
+    .speaker-column { display: grid; gap: .3rem; min-width: 0; }
+    .speaker-column:first-child { --trim: #da4d53; }
+    .speaker-column:nth-child(2) { --trim: var(--reggae-gold); }
+    .speaker-column:last-child { --trim: #63b481; }
+    .speaker-box {
+      display: grid;
+      place-items: center;
+      position: relative;
+      aspect-ratio: 1.2;
+      border: 2px solid var(--trim);
+      border-radius: .2rem;
+      box-shadow: inset 0 0 0 3px #42372a, 0 4px 0 #0d2418;
+      background: repeating-linear-gradient(135deg, #242522 0 2px, #20201e 2px 4px);
+    }
+    .speaker-box::before, .speaker-box::after {
+      content: "";
+      position: absolute;
+      top: .35rem;
+      width: .22rem;
+      height: .22rem;
+      border-radius: 50%;
+      background: var(--trim);
+    }
+    .speaker-box::before { left: .35rem; }
+    .speaker-box::after { right: .35rem; }
+    .speaker-driver {
+      width: 65%;
+      aspect-ratio: 1;
+      border: 2px solid #5b5749;
+      border-radius: 50%;
+      background: radial-gradient(circle, #756d56 0 13%, #282720 14% 24%, #1b1b19 25% 35%, #3b3a33 36% 47%, #22221f 48% 57%, #151613 58% 72%);
+    }
+    .speaker-box.horn { aspect-ratio: 2.25; }
+    .horn .speaker-driver {
+      width: 68%;
+      aspect-ratio: 2.6;
+      border-radius: .12rem;
+      background: linear-gradient(180deg, #655b44, #26251f 27%, #11130f 50%, #26251f 73%, #655b44);
+    }
+    .reggae-jumps {
+      gap: .55rem 1.25rem;
+      padding-block: .9rem;
+      border-bottom: 1px solid var(--line);
+    }
+    .reggae-jumps a { font-size: 1rem; font-weight: 650; }
+    .reggae-page .post-body { margin-top: 1.8rem; }
+    .reggae-page .post-body section { margin-bottom: 2.5rem; }
+    .reggae-page .post-body h2 {
+      padding-left: .65rem;
+      border-left: .28rem solid var(--reggae-red);
+    }
+    .reggae-page .post-body dl {
+      display: grid;
+      gap: .3rem;
+      padding: .5rem 1rem 1rem;
+      background: #fffaf0;
+      border: 1px solid var(--line);
+      border-top: .2rem solid var(--reggae-green);
+      border-radius: .25rem;
+    }
+    .reggae-page .post-body dt { margin-top: .8rem; }
+    .reggae-page .post-body dt:not(:first-child) {
+      padding-top: .8rem;
+      border-top: 1px solid var(--line);
+    }
+    .reggae-page .post-body dd { margin-left: 0; }
+    .reggae-page .post-body details { margin-top: 1.5rem; }
+    .reggae-page .post-body summary { cursor: pointer; color: var(--ink); font-weight: 650; }
+    @media (max-width: 39rem) {
+      .reggae-hero-inner { grid-template-columns: 1fr; gap: 1.5rem; }
+      .speaker-stack { width: min(100%, 15rem); margin-inline: 0; }
+    }
   </style>
 </head>
-<body>
+<body class="reggae-page">
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="masthead wrap">
     <a class="wordmark" href="../">José Rico</a>
     <nav aria-label="Main navigation"><a href="../#teaching">Courses</a><a href="./">Posts</a><a href="../#about">About</a></nav>
   </header>
   <main id="main" class="wrap post-page">
+    <section class="reggae-hero" id="listen" aria-labelledby="reggae-title">
+      <div class="reggae-hero-inner">
+        <div>
+          <a href="./">All posts</a>
+          <h1 id="reggae-title">Reggae</h1>
+          <p><a class="button" href="https://live365.com/station/Reggae-Town-Music-a34320">Play 24/7 reggae</a></p>
+          <p class="reggae-replays"><strong>On demand.</strong> Pick a recent broadcast of <a href="https://kfjc.org/listen/program-info?hourOfWeek=159&amp;programId=34">Jah’s Music on KFJC</a> or <a href="https://spinitron.com/KZSC/show/62431/Joy-in-the-Morning">Joy in the Morning with DJ Tiffany</a>.</p>
+        </div>
+        <div class="speaker-stack" aria-hidden="true">
+            <div class="speaker-column"><div class="speaker-box horn"><span class="speaker-driver"></span></div><div class="speaker-box"><span class="speaker-driver"></span></div><div class="speaker-box"><span class="speaker-driver"></span></div></div>
+            <div class="speaker-column"><div class="speaker-box horn"><span class="speaker-driver"></span></div><div class="speaker-box"><span class="speaker-driver"></span></div><div class="speaker-box"><span class="speaker-driver"></span></div><div class="speaker-box"><span class="speaker-driver"></span></div></div>
+            <div class="speaker-column"><div class="speaker-box horn"><span class="speaker-driver"></span></div><div class="speaker-box"><span class="speaker-driver"></span></div><div class="speaker-box"><span class="speaker-driver"></span></div></div>
+        </div>
+      </div>
+    </section>
+    <nav class="reggae-jumps" aria-label="On this page">
+      <a href="#listen">Listen</a>
+      <a href="#radio">Radio schedule</a>
+      <a href="#concerts">Concert calendars</a>
+      <a href="#older-list">Older radio list</a>
+    </nav>
     <article class="post-body">
-      <p><a href="./">All posts</a></p>
-      <h1>Reggae</h1>
-      <p><a href="#listen">Listen</a> · <a href="#radio">Radio schedule</a> · <a href="#concerts">Concert calendars</a> · <a href="#older-list">Older radio list</a></p>
-
-      <section aria-labelledby="listen">
-        <h2 id="listen">Put on some reggae</h2>
-        <p><a class="button" href="https://live365.com/station/Reggae-Town-Music-a34320">Play 24/7 reggae</a></p>
-        <p><strong>On demand.</strong> Pick a recent broadcast of <a href="https://kfjc.org/listen/program-info?hourOfWeek=159&amp;programId=34">Jah’s Music on KFJC</a> or <a href="https://spinitron.com/KZSC/show/62431/Joy-in-the-Morning">Joy in the Morning with DJ Tiffany</a>.</p>
-      </section>
-
       <section aria-labelledby="radio">
         <h2 id="radio">Local community and college radio</h2>
         <p>Times are Pacific. The live players carry the station’s regular programming outside the listed hours. Check the show links for schedule changes and available replays.</p>
